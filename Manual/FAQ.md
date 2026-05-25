@@ -49,7 +49,7 @@ A: Just type the Pinyin or initials in the search bar. For example, type `ndbg` 
 ## LAN Transfer
 
 **Q: Do both devices need PouchVerse installed?**  
-A: Yes, for iOS transfers both devices need PouchVerse. The macOS, Android, and Windows companion apps will be available soon and will interoperate with the iOS version.
+A: Yes, for iOS transfers both devices need PouchVerse. **PouchVerse Transfer** (macOS / Windows companion app for LAN file transfer) and the Android version will be available soon and will interoperate with the iOS version.
 
 **Q: The other device isn't showing up in the transfer list. What should I do?**  
 A: 1. Ensure both devices are on the same Wi-Fi network. 2. Grant **Local Network** permission (Settings → Privacy & Security → Local Network → PouchVerse). 3. Make sure the receiving device has **LAN Receive** enabled in the sidebar.

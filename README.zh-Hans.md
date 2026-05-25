@@ -5,9 +5,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-v1.0_审核中-orange?style=flat-square&logo=apple" alt="iOS 审核中">
-  <img src="https://img.shields.io/badge/macOS-即将推出-lightgrey?style=flat-square&logo=apple" alt="macOS 即将推出">
+  <img src="https://img.shields.io/badge/macOS_Transfer-即将推出-lightgrey?style=flat-square&logo=apple" alt="macOS Transfer 即将推出">
   <img src="https://img.shields.io/badge/Android-即将推出-lightgrey?style=flat-square&logo=android" alt="Android 即将推出">
-  <img src="https://img.shields.io/badge/Windows-即将推出-lightgrey?style=flat-square&logo=windows" alt="Windows 即将推出">
+  <img src="https://img.shields.io/badge/Windows_Transfer-即将推出-lightgrey?style=flat-square&logo=windows" alt="Windows Transfer 即将推出">
   <img src="https://img.shields.io/badge/隐私-100%%25_本地-green?style=flat-square" alt="隐私">
   <img src="https://img.shields.io/badge/价格-一次性买断-purple?style=flat-square" alt="价格">
 </p>
@@ -29,7 +29,7 @@
 > **构于微，行于简 · 汇集群文，速览无滞**  
 > 将散落各处的文件汇入统一的本地库，搜索、预览、互传一气呵成。
 
-储物袋是一款**本地优先 / 离线可用**的个人文件管理应用，覆盖手机、平板与桌面。无需注册账号，无云端上传，无订阅。您的全部文件**始终存储于您的设备本地**，完全由您掌控。
+储物袋是一款**本地优先 / 离线可用**的个人文件管理应用，专为**手机与平板**（iOS 和 Android）打造；**储物袋 Transfer**（macOS / Windows）为桌面平台提供高速局域网互传功能。无需注册账号，无云端上传，无订阅。您的全部文件**始终存储于您的设备本地**，完全由您掌控。
 
 ---
 
@@ -55,10 +55,12 @@
 | 平台 | 状态 | 链接 |
 |---|---|---|
 | **iOS**（iPhone 和 iPad） | 🟡 **App Store 审核中** | — |
-| **macOS** | 🔜 即将推出 | — |
+| **macOS Transfer** | 🔜 即将推出 | — |
 | **Android** | 🔜 即将推出 | — |
-| **Windows** | 🔜 即将推出 | — |
-| **tvOS**（Apple TV） | 🔜 即将推出 | — |
+| **Windows Transfer** | 🔜 即将推出 | — |
+| **tvOS Transfer**（Apple TV） | 🔜 即将推出 | — |
+
+> 📌 **储物袋 Transfer**（macOS / Windows / tvOS）为桌面平台提供局域网互传功能；完整文件管理功能仅限**移动版**（iOS 和 Android）。
 
 > ⭐ **Star 本仓库**，第一时间获知新平台上线通知。
 

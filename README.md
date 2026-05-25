@@ -5,9 +5,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-v1.0_Under_Review-orange?style=flat-square&logo=apple" alt="iOS Under Review">
-  <img src="https://img.shields.io/badge/macOS-Coming_Soon-lightgrey?style=flat-square&logo=apple" alt="macOS Coming Soon">
+  <img src="https://img.shields.io/badge/macOS_Transfer-Coming_Soon-lightgrey?style=flat-square&logo=apple" alt="macOS Transfer Coming Soon">
   <img src="https://img.shields.io/badge/Android-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android Coming Soon">
-  <img src="https://img.shields.io/badge/Windows-Coming_Soon-lightgrey?style=flat-square&logo=windows" alt="Windows Coming Soon">
+  <img src="https://img.shields.io/badge/Windows_Transfer-Coming_Soon-lightgrey?style=flat-square&logo=windows" alt="Windows Transfer Coming Soon">
   <img src="https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad%20%7C%20Mac%20%7C%20Android%20%7C%20Win-blue?style=flat-square" alt="Platforms">
   <img src="https://img.shields.io/badge/Privacy-100%25_Local-green?style=flat-square" alt="Privacy">
   <img src="https://img.shields.io/badge/Price-One--time_Purchase-purple?style=flat-square" alt="Price">
@@ -30,7 +30,7 @@
 > **Built on the minute, acting in simplicity.**  
 > Gather all your scattered files into one unified hub — search, preview, and transfer at the speed of thought.
 
-PouchVerse is a **local-first, offline-capable** personal file management app for mobile and desktop. No account registration. No cloud uploads. No subscriptions. All your files stay **entirely on your device**, under your complete control.
+PouchVerse is a **local-first, offline-capable** personal file manager for **mobile** (iOS & Android). **PouchVerse Transfer** (macOS / Windows) is the companion desktop app for high-speed LAN file transfer. No account registration. No cloud uploads. No subscriptions. All your files stay **entirely on your device**, under your complete control.
 
 ---
 
@@ -56,10 +56,12 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 | Platform | Status | Link |
 |---|---|---|
 | **iOS** (iPhone & iPad) | 🟡 **Under App Store Review** | — |
-| **macOS** | 🔜 Coming Soon | — |
+| **macOS Transfer** | 🔜 Coming Soon | — |
 | **Android** | 🔜 Coming Soon | — |
-| **Windows** | 🔜 Coming Soon | — |
-| **tvOS** (Apple TV) | 🔜 Coming Soon | — |
+| **Windows Transfer** | 🔜 Coming Soon | — |
+| **tvOS Transfer** (Apple TV) | 🔜 Coming Soon | — |
+
+> 📌 **PouchVerse Transfer** (macOS / Windows / tvOS) is a companion app focused on LAN file transfer. Full file management is available on **mobile** (iOS & Android).
 
 > ⭐ **Star this repo** to get notified when new platforms launch.
 

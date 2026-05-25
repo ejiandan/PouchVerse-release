@@ -8,14 +8,14 @@
 
 ## 平台支持矩阵
 
-| 发送方 → 接收方 | iOS | macOS | Android | Windows |
+| 发送方 → 接收方 | iOS | macOS Transfer | Android | Windows Transfer |
 |---|---|---|---|---|
 | **iOS** | ✅ | ✅ | ✅ | ✅ |
-| **macOS** | ✅ | ✅ | ✅ | ✅ |
+| **macOS Transfer** | ✅ | ✅ | ✅ | ✅ |
 | **Android** | ✅ | ✅ | ✅ | ✅ |
-| **Windows** | ✅ | ✅ | ✅ | ✅ |
+| **Windows Transfer** | ✅ | ✅ | ✅ | ✅ |
 
-> macOS、Android、Windows 版本**即将推出**。
+> **储物袋 Transfer**（macOS / Windows）和 Android 版本**即将推出**。
 
 ---
 

@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-v1.0_En_Revisión-orange?style=flat-square&logo=apple" alt="iOS En Revisión">
-  <img src="https://img.shields.io/badge/macOS-Próximamente-lightgrey?style=flat-square&logo=apple" alt="macOS Próximamente">
+  <img src="https://img.shields.io/badge/macOS_Transfer-Pr%C3%B3ximamente-lightgrey?style=flat-square&logo=apple" alt="macOS Transfer Próximamente">
   <img src="https://img.shields.io/badge/Android-Próximamente-lightgrey?style=flat-square&logo=android" alt="Android Próximamente">
   <img src="https://img.shields.io/badge/Privacidad-100%%25_Local-green?style=flat-square" alt="Privacidad">
   <img src="https://img.shields.io/badge/Precio-Pago_único-purple?style=flat-square" alt="Precio">
@@ -53,9 +53,11 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 | Plataforma | Estado | Enlace |
 |---|---|---|
 | **iOS** (iPhone & iPad) | 🟡 **Revisión App Store** | — |
-| **macOS** | 🔜 Próximamente | — |
+| **macOS Transfer** | 🔜 Próximamente | — |
 | **Android** | 🔜 Próximamente | — |
-| **Windows** | 🔜 Próximamente | — |
+| **Windows Transfer** | 🔜 Próximamente | — |
+
+> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **móvil** (iOS y Android).
 
 > ⭐ **Dale una estrella** a este repositorio para recibir notificaciones de nuevas plataformas.
 

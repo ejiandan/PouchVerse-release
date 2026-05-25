@@ -8,14 +8,14 @@ PouchVerse supports high-speed **peer-to-peer LAN file transfer** across all pla
 
 ## Platform Support Matrix
 
-| Sender → Receiver | iOS | macOS | Android | Windows |
+| Sender → Receiver | iOS | macOS Transfer | Android | Windows Transfer |
 |---|---|---|---|---|
 | **iOS** | ✅ | ✅ | ✅ | ✅ |
-| **macOS** | ✅ | ✅ | ✅ | ✅ |
+| **macOS Transfer** | ✅ | ✅ | ✅ | ✅ |
 | **Android** | ✅ | ✅ | ✅ | ✅ |
-| **Windows** | ✅ | ✅ | ✅ | ✅ |
+| **Windows Transfer** | ✅ | ✅ | ✅ | ✅ |
 
-> macOS, Android, and Windows apps are **coming soon**.
+> **PouchVerse Transfer** (macOS / Windows) and Android are **coming soon**.
 
 ---
 
