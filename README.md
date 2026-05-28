@@ -86,11 +86,11 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/01_all-in-one.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/02_instant-search.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/03_quick-view.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/04_one-touch.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/05_flexible-org.png" width="18%">
+  <img src="Assets/Screenshots/iPhone/03_English/01_All-In-One.png" width="18%">
+  <img src="Assets/Screenshots/iPhone/03_English/02_Instant%20Find.png" width="18%">
+  <img src="Assets/Screenshots/iPhone/03_English/03_Quick%20View.png" width="18%">
+  <img src="Assets/Screenshots/iPhone/03_English/04_Easy%20Access.png" width="18%">
+  <img src="Assets/Screenshots/iPhone/03_English/05_Flexible%20Org.png" width="18%">
 </p>
 
 > Full screenshot set (iPhone & iPad, 6 languages) is available in [`/Assets/Screenshots/`](Assets/Screenshots/).
