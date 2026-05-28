@@ -4,9 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_En_Revisión-orange?style=flat-square&logo=apple" alt="iOS En Revisión">
-  <img src="https://img.shields.io/badge/macOS_Transfer-Pr%C3%B3ximamente-lightgrey?style=flat-square&logo=apple" alt="macOS Transfer Próximamente">
-  <img src="https://img.shields.io/badge/Android-Próximamente-lightgrey?style=flat-square&logo=android" alt="Android Próximamente">
+  <img src="https://img.shields.io/badge/iOS-v1.0_Aprobado_16_Jun-brightgreen?style=flat-square&logo=apple" alt="iOS Aprobado 16 Jun">
+  <img src="https://img.shields.io/badge/macOS_Transfer-En_Revisi%C3%B3n_16_Jun-orange?style=flat-square&logo=apple" alt="macOS Transfer En Revisión">
+  <img src="https://img.shields.io/badge/Android-Alpha_Testing-blue?style=flat-square&logo=android" alt="Android Alpha Testing">
+  <img src="https://img.shields.io/badge/Windows_Transfer-Alpha_Testing-blue?style=flat-square&logo=windows" alt="Windows Transfer Alpha Testing">
   <img src="https://img.shields.io/badge/Privacidad-100%%25_Local-green?style=flat-square" alt="Privacidad">
   <img src="https://img.shields.io/badge/Precio-Pago_único-purple?style=flat-square" alt="Precio">
 </p>
@@ -52,10 +53,10 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 
 | Plataforma | Estado | Enlace |
 |---|---|---|
-| **iOS** (iPhone & iPad) | 🟡 **Revisión App Store** | — |
-| **macOS Transfer** | 🔜 Próximamente | — |
-| **Android** | 🔜 Próximamente | — |
-| **Windows Transfer** | 🔜 Próximamente | — |
+| **iOS** (iPhone & iPad) | ✅ **Aprobado — Lanzamiento 16 Jun** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS Transfer** | 🟡 **En revisión — Lanzamiento 16 Jun** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **Android** | 🔵 **Alpha Testing Interno** | — |
+| **Windows Transfer** | 🔵 **Alpha Testing Interno** | — |
 
 > 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **móvil** (iOS y Android).
 

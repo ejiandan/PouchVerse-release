@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_审核中-orange?style=flat-square&logo=apple" alt="iOS 审核中">
-  <img src="https://img.shields.io/badge/macOS_Transfer-即将推出-lightgrey?style=flat-square&logo=apple" alt="macOS Transfer 即将推出">
-  <img src="https://img.shields.io/badge/Android-即将推出-lightgrey?style=flat-square&logo=android" alt="Android 即将推出">
-  <img src="https://img.shields.io/badge/Windows_Transfer-即将推出-lightgrey?style=flat-square&logo=windows" alt="Windows Transfer 即将推出">
+  <img src="https://img.shields.io/badge/iOS-v1.0_已通过审核_6.16上线-brightgreen?style=flat-square&logo=apple" alt="iOS 已通过审核">
+  <img src="https://img.shields.io/badge/macOS_Transfer-审核中_6.16上线-orange?style=flat-square&logo=apple" alt="macOS Transfer 审核中">
+  <img src="https://img.shields.io/badge/Android-内部Alpha测试-blue?style=flat-square&logo=android" alt="Android 内部Alpha测试">
+  <img src="https://img.shields.io/badge/Windows_Transfer-内部Alpha测试-blue?style=flat-square&logo=windows" alt="Windows Transfer 内部Alpha测试">
   <img src="https://img.shields.io/badge/隐私-100%%25_本地-green?style=flat-square" alt="隐私">
   <img src="https://img.shields.io/badge/价格-一次性买断-purple?style=flat-square" alt="价格">
 </p>
@@ -54,10 +54,10 @@
 
 | 平台 | 状态 | 链接 |
 |---|---|---|
-| **iOS**（iPhone 和 iPad） | 🟡 **App Store 审核中** | — |
-| **macOS Transfer** | 🔜 即将推出 | — |
-| **Android** | 🔜 即将推出 | — |
-| **Windows Transfer** | 🔜 即将推出 | — |
+| **iOS**（iPhone 和 iPad） | ✅ **已通过审核，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS Transfer** | 🟡 **审核中，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **Android** | 🔵 **内部 Alpha 测试** | — |
+| **Windows Transfer** | 🔵 **内部 Alpha 测试** | — |
 | **tvOS Transfer**（Apple TV） | 🔜 即将推出 | — |
 
 > 📌 **储物袋 Transfer**（macOS / Windows / tvOS）为桌面平台提供局域网互传功能；完整文件管理功能仅限**移动版**（iOS 和 Android）。
@@ -135,7 +135,7 @@
 如果储物袋对您有帮助，欢迎：
 
 - ⭐ **Star 本仓库** — 帮助更多人发现这个项目
-- 📝 在 App Store **留下评价**（即将开放）
+- 📝 在 App Store **留下评价**（6.16 开放）
 - 📢 **分享**给需要更好文件管理工具的朋友
 
 ---

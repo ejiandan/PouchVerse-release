@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_Under_Review-orange?style=flat-square&logo=apple" alt="iOS Under Review">
-  <img src="https://img.shields.io/badge/macOS_Transfer-Coming_Soon-lightgrey?style=flat-square&logo=apple" alt="macOS Transfer Coming Soon">
-  <img src="https://img.shields.io/badge/Android-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android Coming Soon">
-  <img src="https://img.shields.io/badge/Windows_Transfer-Coming_Soon-lightgrey?style=flat-square&logo=windows" alt="Windows Transfer Coming Soon">
+  <img src="https://img.shields.io/badge/iOS-v1.0_Approved_June_16-brightgreen?style=flat-square&logo=apple" alt="iOS Approved June 16">
+  <img src="https://img.shields.io/badge/macOS_Transfer-Under_Review_June_16-orange?style=flat-square&logo=apple" alt="macOS Transfer Under Review">
+  <img src="https://img.shields.io/badge/Android-Alpha_Testing-blue?style=flat-square&logo=android" alt="Android Alpha Testing">
+  <img src="https://img.shields.io/badge/Windows_Transfer-Alpha_Testing-blue?style=flat-square&logo=windows" alt="Windows Transfer Alpha Testing">
   <img src="https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad%20%7C%20Mac%20%7C%20Android%20%7C%20Win-blue?style=flat-square" alt="Platforms">
   <img src="https://img.shields.io/badge/Privacy-100%25_Local-green?style=flat-square" alt="Privacy">
   <img src="https://img.shields.io/badge/Price-One--time_Purchase-purple?style=flat-square" alt="Price">
@@ -55,10 +55,10 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 
 | Platform | Status | Link |
 |---|---|---|
-| **iOS** (iPhone & iPad) | 🟡 **Under App Store Review** | — |
-| **macOS Transfer** | 🔜 Coming Soon | — |
-| **Android** | 🔜 Coming Soon | — |
-| **Windows Transfer** | 🔜 Coming Soon | — |
+| **iOS** (iPhone & iPad) | ✅ **Approved — Launching June 16** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS Transfer** | 🟡 **Under Review — Launching June 16** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **Android** | 🔵 **Internal Alpha Testing** | — |
+| **Windows Transfer** | 🔵 **Internal Alpha Testing** | — |
 | **tvOS Transfer** (Apple TV) | 🔜 Coming Soon | — |
 
 > 📌 **PouchVerse Transfer** (macOS / Windows / tvOS) is a companion app focused on LAN file transfer. Full file management is available on **mobile** (iOS & Android).
@@ -136,7 +136,7 @@ See the full [Privacy Policy](Legal/Privacy-Policy.md) for details.
 If PouchVerse is useful to you, please consider:
 
 - ⭐ **Starring this repository** — it helps others discover the project
-- 📝 **Leaving a review** on the App Store (coming soon)
+- 📝 **Leaving a review** on the App Store (launching June 16)
 - 📢 **Sharing** with friends who need a better file manager
 
 ---
