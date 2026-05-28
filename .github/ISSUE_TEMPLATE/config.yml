@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "App Store Support · App Store 支持"
+    url: https://apps.apple.com/app/id6745370498
+    about: "Rate or review PouchVerse on the App Store · 在 App Store 评分或评论"
+  - name: "Discussion / 讨论"
+    url: https://github.com/ejiandan/PouchVerse-release/discussions
+    about: "General questions and community discussion · 一般问题和社区讨论"

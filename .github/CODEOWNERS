@@ -1,0 +1,22 @@
+# CODEOWNERS
+# Each line defines a pattern and the owner(s) responsible for files matching it.
+# Owners are automatically requested for review when a PR modifies matching files.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repository
+*                                   @ejiandan
+
+# Legal documents — require maintainer review
+Legal/                              @ejiandan
+macOS/                              @ejiandan
+
+# Core documentation
+README.md                           @ejiandan
+README.zh-Hans.md                   @ejiandan
+README.zh-Hant.md                   @ejiandan
+
+# Manual
+Manual/                             @ejiandan
+
+# Assets and screenshots
+Assets/                             @ejiandan
