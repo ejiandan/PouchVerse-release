@@ -57,8 +57,9 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 | **macOS Transfer** | 🟡 **En revisión — Lanzamiento 16 Jun** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🔵 **Alpha Testing Interno** | — |
 | **Windows Transfer** | 🔵 **Alpha Testing Interno** | — |
+| **tvOS** (Apple TV) | 🔜 Próximamente | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **móvil** (iOS y Android).
+> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS, Android y tvOS**. La versión tvOS comparte la misma estructura funcional que iOS, con previsualización de imágenes, música y vídeo optimizada para la interacción con TV.
 
 > ⭐ **Dale una estrella** a este repositorio para recibir notificaciones de nuevas plataformas.
 

@@ -30,7 +30,7 @@
 > **Built on the minute, acting in simplicity.**  
 > Gather all your scattered files into one unified hub — search, preview, and transfer at the speed of thought.
 
-PouchVerse is a **local-first, offline-capable** personal file manager for **mobile** (iOS & Android). **PouchVerse Transfer** (macOS / Windows) is the companion desktop app for high-speed LAN file transfer. No account registration. No cloud uploads. No subscriptions. All your files stay **entirely on your device**, under your complete control.
+PouchVerse is a **local-first, offline-capable** personal file manager for **mobile and TV** (iOS, Android & tvOS). **PouchVerse Transfer** (macOS / Windows) is the companion desktop app for high-speed LAN file transfer. No account registration. No cloud uploads. No subscriptions. All your files stay **entirely on your device**, under your complete control.
 
 ---
 
@@ -59,9 +59,9 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 | **macOS Transfer** | 🟡 **Under Review — Launching June 16** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🔵 **Internal Alpha Testing** | — |
 | **Windows Transfer** | 🔵 **Internal Alpha Testing** | — |
-| **tvOS Transfer** (Apple TV) | 🔜 Coming Soon | — |
+| **tvOS** (Apple TV) | 🔜 Coming Soon | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows / tvOS) is a companion app focused on LAN file transfer. Full file management is available on **mobile** (iOS & Android).
+> 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS, Android & tvOS**. The tvOS version shares the same feature set as iOS, with image, music, and video previews optimized for TV interaction.
 
 > ⭐ **Star this repo** to get notified when new platforms launch.
 

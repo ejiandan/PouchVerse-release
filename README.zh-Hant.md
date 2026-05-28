@@ -58,9 +58,9 @@
 | **macOS Transfer** | 🟡 **審核中，6.16 上線** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🔵 **內部 Alpha 測試** | — |
 | **Windows Transfer** | 🔵 **內部 Alpha 測試** | — |
-| **tvOS Transfer**（Apple TV） | 🔜 即將推出 | — |
+| **tvOS**（Apple TV） | 🔜 即將推出 | — |
 
-> 📌 **儲物袋 Transfer**（macOS / Windows / tvOS）為桌面平台提供局域網互傳功能；完整文件管理功能僅限**行動版**（iOS 和 Android）。
+> 📌 **儲物袋 Transfer**（macOS / Windows）為桌面平台提供局域網互傳功能；完整文件管理功能適用於 **iOS、Android 與 tvOS**。tvOS 版功能框架與 iOS 版一致，圖片、音樂、視頻預覽針對電視操作優化。
 
 > ⭐ **Star 本倉庫**，第一時間獲知新平台上線通知。
 
