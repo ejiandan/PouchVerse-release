@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/iOS-v1.0_已通过审核_6.16上线-brightgreen?style=flat-square&logo=apple" alt="iOS 已通过审核">
   <img src="https://img.shields.io/badge/macOS_Transfer-审核中_6.16上线-orange?style=flat-square&logo=apple" alt="macOS Transfer 审核中">
   <img src="https://img.shields.io/badge/Android-内部Alpha测试-blue?style=flat-square&logo=android" alt="Android 内部Alpha测试">
-  <img src="https://img.shields.io/badge/Windows_Transfer-内部Alpha测试-blue?style=flat-square&logo=windows" alt="Windows Transfer 内部Alpha测试">
+  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0.0_已发布-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0.0 已发布">
   <img src="https://img.shields.io/badge/隐私-100%25_本地-green?style=flat-square" alt="隐私">
   <img src="https://img.shields.io/badge/价格-一次性买断-purple?style=flat-square" alt="价格">
 </p>
@@ -57,7 +57,7 @@
 | **iOS**（iPhone 和 iPad） | ✅ **已通过审核，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
 | **macOS Transfer** | 🟡 **审核中，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🔵 **内部 Alpha 测试** | — |
-| **Windows Transfer** | 🔵 **内部 Alpha 测试** | — |
+| **Windows Transfer** | ✅ **v1.0.0 已发布** | [⬇️ 下载](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) |
 | **tvOS**（Apple TV） | 🔜 即将推出 | — |
 
 > 📌 **储物袋 Transfer**（macOS / Windows）为桌面平台提供局域网互传功能；完整文件管理功能适用于 **iOS、Android 与 tvOS**。tvOS 版功能框架与 iOS 版一致，图片、音乐、视频预览针对电视操作优化。
