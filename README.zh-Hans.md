@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/macOS_Transfer-审核中_6.16上线-orange?style=flat-square&logo=apple" alt="macOS Transfer 审核中">
   <img src="https://img.shields.io/badge/Android-内部Alpha测试-blue?style=flat-square&logo=android" alt="Android 内部Alpha测试">
   <img src="https://img.shields.io/badge/Windows_Transfer-内部Alpha测试-blue?style=flat-square&logo=windows" alt="Windows Transfer 内部Alpha测试">
-  <img src="https://img.shields.io/badge/隐私-100%%25_本地-green?style=flat-square" alt="隐私">
+  <img src="https://img.shields.io/badge/隐私-100%25_本地-green?style=flat-square" alt="隐私">
   <img src="https://img.shields.io/badge/价格-一次性买断-purple?style=flat-square" alt="价格">
 </p>
 
@@ -142,8 +142,8 @@
 
 ## 📄 法律声明
 
-版权所有 © 2026 EJIANDAN LIMITED（藝簡單有限公司）。保留所有权利。
+版权所有 © 2026 北京艺简单网络科技有限公司。保留所有权利。
 
-- [隐私政策](Legal/Privacy-Policy.md)
-- [用户协议](Legal/Terms-of-Service.md)
+- [隐私政策](Legal/Privacy-Policy.zh-Hans.md)
+- [用户协议](Legal/Terms-of-Service.zh-Hans.md)
 - [开源许可声明](Legal/Open-Source-Licences.md)
