@@ -92,4 +92,4 @@ Before submitting a PR, please confirm:
 
 ## Questions?
 
-Open an [Issue](https://github.com/ejiandan/PouchVerse-release/issues) for bug reports or general questions.
+Open a [Discussion](https://github.com/ejiandan/PouchVerse-release/discussions) for general questions, or an [Issue](https://github.com/ejiandan/PouchVerse-release/issues) for specific problems.
