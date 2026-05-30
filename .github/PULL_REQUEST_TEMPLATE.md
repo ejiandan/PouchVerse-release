@@ -18,7 +18,7 @@
 
 ## Checklist / 检查清单
 
-- [ ] I have read [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ ] I have read [CONTRIBUTING.md](CONTRIBUTING.md)
 - [ ] My changes are limited to the described scope / 更改仅限于所描述的范围
 - [ ] Spelling and grammar have been checked / 已检查拼写和语法
 - [ ] Links in the changed files work correctly / 更改文件中的链接均可正常访问

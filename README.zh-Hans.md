@@ -126,7 +126,7 @@
 ## 💬 反馈与支持
 
 - **邮件：** support@ejiandan.com
-- **Issues：** [提交问题](../../issues)报告 Bug 或建议功能
+- **Issues：** [提交问题](https://github.com/ejiandan/PouchVerse-release/issues)报告 Bug 或建议功能
 
 ---
 

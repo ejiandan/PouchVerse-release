@@ -77,7 +77,7 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 ## 💬 Soporte
 
 - **Email:** support@ejiandan.com
-- **Issues:** [Abrir un issue](../../issues)
+- **Issues:** [Abrir un issue](https://github.com/ejiandan/PouchVerse-release/issues)
 
 ---
 

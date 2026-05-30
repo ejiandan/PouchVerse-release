@@ -1,6 +1,6 @@
 # 互传指南 — 储物袋 PouchVerse
 
-> **语言：** [English](Transfer-Guide.md) | 简体中文 | [繁體中文](Transfer-Guide.zh-Hant.md) | [日本語](Transfer-Guide.ja.md) | [한국어](Transfer-Guide.ko.md) | [Español](Transfer-Guide.es.md)
+> **语言：** [English](Transfer-Guide.md) | 简体中文
 
 储物袋支持跨平台**局域网点对点高速文件传输**。无需网络，无中转服务器，文件直接在您的设备之间传输。
 

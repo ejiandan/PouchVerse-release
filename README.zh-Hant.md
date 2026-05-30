@@ -82,7 +82,7 @@
 ## 💬 反饋與支持
 
 - **郵件：** support@ejiandan.com
-- **Issues：** [提交問題](../../issues)
+- **Issues：** [提交問題](https://github.com/ejiandan/PouchVerse-release/issues)
 
 ---
 

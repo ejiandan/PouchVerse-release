@@ -127,7 +127,7 @@ See the full [Privacy Policy](Legal/Privacy-Policy.md) for details.
 ## 💬 Feedback & Support
 
 - **Email:** support@ejiandan.com
-- **Issues:** [Open an issue](../../issues) for bug reports or feature requests
+- **Issues:** [Open an issue](https://github.com/ejiandan/PouchVerse-release/issues) for bug reports or feature requests
 
 ---
 

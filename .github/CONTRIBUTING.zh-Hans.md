@@ -92,4 +92,4 @@ chore: 更新 iPhone 截图（iOS 18 版本）
 
 ## 有问题？
 
-一般问题请在[讨论区](https://github.com/ejiandan/PouchVerse-release/discussions)提出，具体问题请[提交 Issue](https://github.com/ejiandan/PouchVerse-release/issues)。
+如有问题，欢迎[提交 Issue](https://github.com/ejiandan/PouchVerse-release/issues)。

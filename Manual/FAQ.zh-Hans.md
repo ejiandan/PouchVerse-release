@@ -1,6 +1,6 @@
 # 常见问题解答（FAQ）
 
-> **语言：** [English](FAQ.md) | 简体中文 | [繁體中文](FAQ.zh-Hant.md) | [日本語](FAQ.ja.md) | [한국어](FAQ.ko.md) | [Español](FAQ.es.md)
+> **语言：** [English](FAQ.md) | 简体中文
 
 ---
 
@@ -76,8 +76,8 @@ A：不会。语音转文字使用 Apple 的 Speech 框架，强制设置 `requi
 ## 反馈与支持
 
 **Q：如何报告 Bug 或提交功能建议？**  
-A：在 GitHub 上[提交 Issue](../../issues)，或发邮件至 support@ejiandan.com。
+A：在 GitHub 上[提交 Issue](https://github.com/ejiandan/PouchVerse-release/issues)，或发邮件至 [support@ejiandan.com](mailto:support@ejiandan.com)。
 
 ---
 
-*没找到答案？发邮件给我们：support@ejiandan.com*
+*没找到答案？发邮件给我们：[support@ejiandan.com](mailto:support@ejiandan.com)*

@@ -1,6 +1,6 @@
 # LAN Transfer Guide
 
-> **Language:** English | [简体中文](Transfer-Guide.zh-Hans.md) | [繁體中文](Transfer-Guide.zh-Hant.md) | [日本語](Transfer-Guide.ja.md) | [한국어](Transfer-Guide.ko.md) | [Español](Transfer-Guide.es.md)
+> **Language:** English | [简体中文](Transfer-Guide.zh-Hans.md)
 
 PouchVerse supports high-speed **peer-to-peer LAN file transfer** across all platforms. No internet required, no relay server — files travel directly between your devices.
 

@@ -30,6 +30,7 @@ jobs:
             --exclude "^https://apps\.apple\.com"
             --exclude "^https://play\.google\.com"
             --exclude "^https://img\.shields\.io"
+            --exclude "^mailto:"
             '**/*.md'
           fail: true
         env:

@@ -121,7 +121,7 @@
 如对本隐私政策有任何疑问、意见或投诉，请通过以下方式联系：
 
 - 公司：北京艺简单网络科技有限公司
-- 邮箱：support@ejiandan.com
+- 邮筱：[support@ejiandan.com](mailto:support@ejiandan.com)
 
 ---
 
