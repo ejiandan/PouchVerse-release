@@ -24,9 +24,11 @@ This is the **public release repository** for PouchVerse — it contains documen
 1. **Fork** this repository
 2. **Clone** your fork locally
 3. Create a new **branch** for your change:
-   ```
+
+   ```bash
    git checkout -b fix/typo-in-readme-es
    ```
+
 4. Make your changes
 5. **Commit** with a clear message (see below)
 6. **Push** to your fork and open a **Pull Request**
@@ -37,7 +39,7 @@ This is the **public release repository** for PouchVerse — it contains documen
 
 We follow a lightweight convention:
 
-```
+```text
 <type>(<scope>): <short description>
 ```
 
@@ -49,7 +51,8 @@ We follow a lightweight convention:
 | `docs`   | Improving structure or clarity of documentation  |
 
 **Examples:**
-```
+
+```text
 fix(ja): correct mistranslated section in Quick-Start.ja.md
 feat(fr): add French translation for README
 chore: update iPhone screenshots for iOS 18

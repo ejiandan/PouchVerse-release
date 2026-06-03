@@ -24,9 +24,11 @@
 1. **Fork** 本仓库
 2. **Clone** 您的 Fork 到本地
 3. 为您的更改创建新**分支**：
-   ```
+
+   ```bash
    git checkout -b fix/readme-zh-Hans-typo
    ```
+
 4. 进行修改
 5. 使用清晰的消息**提交**（见下方规范）
 6. **推送**到您的 Fork 并创建 **Pull Request**
@@ -37,7 +39,7 @@
 
 使用轻量级规范：
 
-```
+```text
 <类型>(<范围>): <简短描述>
 ```
 
@@ -49,7 +51,8 @@
 | `docs`   | 改善文档结构或清晰度               |
 
 **示例：**
-```
+
+```text
 fix(zh-Hans): 修正 Quick-Start 中的误译段落
 feat(fr): 添加法语版 README 翻译
 chore: 更新 iPhone 截图（iOS 18 版本）
