@@ -55,9 +55,9 @@
 | 平台 | 状态 | 链接 |
 |---|---|---|
 | **iOS**（iPhone 和 iPad） | ✅ **已通过审核，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS Transfer** | 🟡 **审核中，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
-| **Android** | � **v1.0 审核中 — Google Play** | — |
-| **Windows Transfer** | ✅ **已通过审核，6.16 上线** | [⬇️ 下载](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
+| **macOS** (Transfer) | 🟡 **审核中，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **Android** | 🟡 **v1.0 审核中 — Google Play** | — |
+| **Windows** (Transfer) | ✅ **已通过审核，6.16 上线** | [⬇️ 下载](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
 | **tvOS**（Apple TV） | 🔜 即将推出 | — |
 
 > 📌 **储物袋 Transfer**（macOS / Windows）为桌面平台提供局域网互传功能；完整文件管理功能适用于 **iOS、Android 与 tvOS**。tvOS 版功能框架与 iOS 版一致，图片、音乐、视频预览针对电视操作优化。
