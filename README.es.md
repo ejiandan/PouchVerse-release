@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-v1.0_Aprobado_16_Jun-brightgreen?style=flat-square&logo=apple" alt="iOS Aprobado 16 Jun">
   <img src="https://img.shields.io/badge/macOS_Transfer-En_Revisi%C3%B3n_16_Jun-orange?style=flat-square&logo=apple" alt="macOS Transfer En Revisión">
-  <img src="https://img.shields.io/badge/Android-Alpha_Testing-blue?style=flat-square&logo=android" alt="Android Alpha Testing">
+  <img src="https://img.shields.io/badge/Android-v1.0_Under_Review-orange?style=flat-square&logo=android" alt="Android v1.0 Under Review">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Aprobado_16_Jun-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer Aprobado 16 Jun">
   <img src="https://img.shields.io/badge/Privacidad-100%%25_Local-green?style=flat-square" alt="Privacidad">
   <img src="https://img.shields.io/badge/Precio-Pago_único-purple?style=flat-square" alt="Precio">
@@ -55,7 +55,7 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 |---|---|---|
 | **iOS** (iPhone & iPad) | ✅ **Aprobado — Lanzamiento 16 Jun** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
 | **macOS Transfer** | 🟡 **En revisión — Lanzamiento 16 Jun** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
-| **Android** | 🔵 **Alpha Testing Interno** | — |
+| **Android** | � **v1.0 En Revisión — Google Play** | — |
 | **Windows Transfer** | ✅ **Aprobado — Lanzamiento 16 Jun** | [⬇️ Descargar](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
 | **tvOS** (Apple TV) | 🔜 Próximamente | — |
 
