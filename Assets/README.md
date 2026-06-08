@@ -14,7 +14,7 @@ The official website hero image, suitable for use as the README banner.
 
 App Store submission screenshots, organized by device and language.
 
-```
+```text
 Screenshots/
 ├── iPhone/
 │   ├── 01_Traditional-Chinese/     (繁體中文)

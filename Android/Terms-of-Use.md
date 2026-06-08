@@ -113,4 +113,4 @@ How we handle matters relating to on-device local data is described in the **Pou
 ## 11. Contact Us
 
 - Company: Beijing EJIANDAN Network Technology Co., Ltd.
-- Email: support@ejiandan.com
+- Email: <support@ejiandan.com>

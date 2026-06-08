@@ -13,9 +13,9 @@ assignees: []
 
 ## Steps to Reproduce / 复现步骤
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## Expected Behavior / 预期行为
 

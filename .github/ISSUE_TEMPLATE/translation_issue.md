@@ -26,7 +26,7 @@ assignees: []
 
 <!-- Paste the current (incorrect) text here. / 粘贴当前（有误的）文本。 -->
 
-```
+```text
 (paste here)
 ```
 
@@ -34,7 +34,7 @@ assignees: []
 
 <!-- Paste the corrected or improved text here. / 粘贴修正或改进后的文本。 -->
 
-```
+```text
 (paste here)
 ```
 

@@ -114,4 +114,4 @@ If this policy is materially updated, the new version will be announced via the 
 If you have any questions, comments, or complaints regarding this Privacy Policy, please contact us at:
 
 - Company: Beijing EJIANDAN Network Technology Co., Ltd.
-- Email: support@ejiandan.com
+- Email: <support@ejiandan.com>

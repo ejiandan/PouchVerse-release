@@ -5,7 +5,7 @@
 ## v1.0.1
 
 **Status:** Submitted to App Store · TestFlight Public Beta Approved  
-**TestFlight:** https://testflight.apple.com/join/8t2n7tmd
+**TestFlight:** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### Bug Fixes
 
@@ -39,7 +39,7 @@
 ## v1.0
 
 **Status:** App Store Approved — Launching June 16, 2026  
-**TestFlight:** https://testflight.apple.com/join/8t2n7tmd
+**TestFlight:** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### Initial Release
 
