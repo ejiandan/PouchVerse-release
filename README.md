@@ -64,7 +64,7 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 | **tvOS** (Apple TV) | 🧪 **Alpha Internal Testing** | — |
 | **Android TV** | 🔜 Coming Soon | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS & Android**; **tvOS** is in Alpha internal testing, and **Android TV** is coming soon. TV versions use your phone as the data source — they are a big-screen companion for enjoying videos, photos, and music already in your PouchVerse library. File management, import/export, and transfer are available on the phone app only.
+> 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS & Android**; **tvOS** is in Alpha internal testing, and **Android TV** is coming soon. TV versions use your phone as the data source — they are a big-screen companion for enjoying videos, photos, and music already in your PouchVerse library.
 
 > ⭐ **Star this repo** to get notified when new platforms launch.
 
