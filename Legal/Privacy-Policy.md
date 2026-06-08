@@ -120,7 +120,7 @@ If this policy is materially updated, the new version will be announced via the 
 If you have any questions, comments, or complaints regarding this Privacy Policy, please contact us at:
 
 - Company: EJIANDAN LIMITED (藝簡單有限公司)
-- Email: support@ejiandan.com
+- Email: <support@ejiandan.com>
 
 ---
 

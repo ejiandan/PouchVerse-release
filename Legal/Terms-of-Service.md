@@ -93,7 +93,7 @@ How we handle on-device data is described in our [Privacy Policy](Privacy-Policy
 ## 10. Contact Us
 
 - **Company:** EJIANDAN LIMITED (藝簡單有限公司)
-- **Email:** support@ejiandan.com
+- **Email:** <support@ejiandan.com>
 
 ---
 

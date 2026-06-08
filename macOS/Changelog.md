@@ -5,7 +5,7 @@
 ## v1.0
 
 **Status:** Submitted to Mac App Store — Launching June 16, 2026  
-**TestFlight:** https://testflight.apple.com/join/5Bk89gBb
+**TestFlight:** <https://testflight.apple.com/join/5Bk89gBb>
 
 ### Initial Release
 

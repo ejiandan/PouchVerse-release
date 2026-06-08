@@ -5,7 +5,7 @@
 ## v1.0.1
 
 **状态：** 已提交 App Store 审核 · TestFlight 公开测试已通过  
-**TestFlight：** https://testflight.apple.com/join/8t2n7tmd
+**TestFlight：** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### 问题修复
 
@@ -39,7 +39,7 @@
 ## v1.0
 
 **状态：** 已通过 App Store 审核，2026 年 6 月 16 日正式上线  
-**TestFlight：** https://testflight.apple.com/join/8t2n7tmd
+**TestFlight：** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### 首发功能
 

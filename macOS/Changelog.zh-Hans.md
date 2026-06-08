@@ -5,7 +5,7 @@
 ## v1.0
 
 **状态：** 已提交 Mac App Store 审核，2026 年 6 月 16 日正式上线  
-**TestFlight：** https://testflight.apple.com/join/5Bk89gBb
+**TestFlight：** <https://testflight.apple.com/join/5Bk89gBb>
 
 ### 首发功能
 

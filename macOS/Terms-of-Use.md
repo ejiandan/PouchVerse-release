@@ -27,10 +27,12 @@ EJIANDAN LIMITED grants you a personal, non-exclusive, non-transferable, revocab
 ## 4. Permitted and Prohibited Uses
 
 **You may:**
+
 - Transfer any files you own or have lawful rights to share.
 - Use the App for personal or internal business purposes.
 
 **You may not:**
+
 - Use the App to transmit illegal, infringing, or harmful content.
 - Reverse-engineer, decompile, or modify the App beyond what applicable law expressly permits.
 - Use the App to violate any applicable law or regulation.
