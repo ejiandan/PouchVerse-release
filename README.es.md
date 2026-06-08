@@ -62,7 +62,7 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 | **tvOS** (Apple TV) | 🧪 **Prueba interna Alpha** | — |
 | **Android TV** | 🔜 Próximamente | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS y Android**. **tvOS** está en prueba interna Alpha, y **Android TV** llegará próximamente. Las versiones para TV comparten la misma estructura funcional que iOS, con previsualización optimizada para TV.
+> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS y Android**. **tvOS** está en prueba interna Alpha, y **Android TV** llegará próximamente. Las versiones para TV usan la app del móvil como fuente de datos: son una extensión en pantalla grande para disfrutar de los vídeos, fotos y música ya guardados en PouchVerse. La gestión de archivos, importación/exportación y transferencia están disponibles solo en la app móvil.
 
 > ⭐ **Dale una estrella** a este repositorio para recibir notificaciones de nuevas plataformas.
 
