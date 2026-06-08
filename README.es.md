@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/macOS_Transfer-En_Revisi%C3%B3n_16_Jun-orange?style=flat-square&logo=apple" alt="macOS Transfer En Revisión">
   <img src="https://img.shields.io/badge/Android-v1.0_Under_Review-orange?style=flat-square&logo=android" alt="Android v1.0 Under Review">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Aprobado_16_Jun-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer Aprobado 16 Jun">
+  <img src="https://img.shields.io/badge/tvOS-Alpha_Testing-blue?style=flat-square&logo=apple" alt="tvOS Alpha Testing">
+  <img src="https://img.shields.io/badge/Android_TV-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android TV Coming Soon">
   <img src="https://img.shields.io/badge/Privacidad-100%%25_Local-green?style=flat-square" alt="Privacidad">
   <img src="https://img.shields.io/badge/Precio-Pago_único-purple?style=flat-square" alt="Precio">
 </p>
@@ -57,9 +59,10 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 | **macOS** (Transfer) | 🟡 **En revisión — Lanzamiento 16 Jun** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 En Revisión — Google Play** | — |
 | **Windows** (Transfer) | ✅ **Aprobado — Lanzamiento 16 Jun** | [⬇️ Descargar](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
-| **tvOS** (Apple TV) | 🔜 Próximamente | — |
+| **tvOS** (Apple TV) | 🧪 **Prueba interna Alpha** | — |
+| **Android TV** | 🔜 Próximamente | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS, Android y tvOS**. La versión tvOS comparte la misma estructura funcional que iOS, con previsualización de imágenes, música y vídeo optimizada para la interacción con TV.
+> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS y Android**. **tvOS** está en prueba interna Alpha, y **Android TV** llegará próximamente. Las versiones para TV comparten la misma estructura funcional que iOS, con previsualización optimizada para TV.
 
 > ⭐ **Dale una estrella** a este repositorio para recibir notificaciones de nuevas plataformas.
 

@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/macOS_Transfer-Under_Review_June_16-orange?style=flat-square&logo=apple" alt="macOS Transfer Under Review">
   <img src="https://img.shields.io/badge/Android-v1.0_Under_Review-orange?style=flat-square&logo=android" alt="Android v1.0 Under Review">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Approved_June_16-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer Approved June 16">
-  <img src="https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad%20%7C%20Mac%20%7C%20Android%20%7C%20Win-blue?style=flat-square" alt="Platforms">
+  <img src="https://img.shields.io/badge/tvOS-Alpha_Internal_Testing-blue?style=flat-square&logo=apple" alt="tvOS Alpha Internal Testing">
+  <img src="https://img.shields.io/badge/Android_TV-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android TV Coming Soon">
+  <img src="https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad%20%7C%20Mac%20%7C%20Android%20%7C%20Win%20%7C%20tvOS%20%7C%20Android%20TV-blue?style=flat-square" alt="Platforms">
   <img src="https://img.shields.io/badge/Privacy-100%25_Local-green?style=flat-square" alt="Privacy">
   <img src="https://img.shields.io/badge/Price-One--time_Purchase-purple?style=flat-square" alt="Price">
 </p>
@@ -59,9 +61,10 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 | **macOS** (Transfer) | 🟡 **Under Review — Launching June 16** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 Under Review — Google Play** | — |
 | **Windows** (Transfer) | ✅ **Approved — Launching June 16** | [⬇️ Download](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
-| **tvOS** (Apple TV) | 🔜 Coming Soon | — |
+| **tvOS** (Apple TV) | 🧪 **Alpha Internal Testing** | — |
+| **Android TV** | 🔜 Coming Soon | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS, Android & tvOS**. The tvOS version shares the same feature set as iOS, with image, music, and video previews optimized for TV interaction.
+> 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS & Android**; **tvOS** is in Alpha internal testing, and **Android TV** is coming soon. TV versions share the same feature set as iOS, with image, music, and video previews optimized for TV interaction.
 
 > ⭐ **Star this repo** to get notified when new platforms launch.
 

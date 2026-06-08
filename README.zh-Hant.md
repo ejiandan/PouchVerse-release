@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/macOS_Transfer-審核中_6.16上線-orange?style=flat-square&logo=apple" alt="macOS Transfer 審核中">
   <img src="https://img.shields.io/badge/Android-v1.0_審核中-orange?style=flat-square&logo=android" alt="Android v1.0 審核中">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已通過審核_6.16上線-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer 已通過審核 6.16上線">
+  <img src="https://img.shields.io/badge/tvOS-Alpha_內部測試-blue?style=flat-square&logo=apple" alt="tvOS Alpha 內部測試">
+  <img src="https://img.shields.io/badge/Android_TV-即將推出-lightgrey?style=flat-square&logo=android" alt="Android TV 即將推出">
   <img src="https://img.shields.io/badge/隱私-100%%25_本地-green?style=flat-square" alt="隱私">
   <img src="https://img.shields.io/badge/價格-一次性買斷-purple?style=flat-square" alt="價格">
 </p>
@@ -58,9 +60,10 @@
 | **macOS** (Transfer) | 🟡 **審核中，6.16 上線** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 審核中 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **已通過審核，6.16 上線** | [⬇️ 下載](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
-| **tvOS**（Apple TV） | 🔜 即將推出 | — |
+| **tvOS**（Apple TV） | 🧪 **Alpha 內部測試** | — |
+| **Android TV** | 🔜 即將推出 | — |
 
-> 📌 **儲物袋 Transfer**（macOS / Windows）為桌面平台提供局域網互傳功能；完整文件管理功能適用於 **iOS、Android 與 tvOS**。tvOS 版功能框架與 iOS 版一致，圖片、音樂、視頻預覽針對電視操作優化。
+> 📌 **儲物袋 Transfer**（macOS / Windows）為桌面平台提供局域網互傳功能；完整文件管理功能適用於 **iOS 與 Android**；**tvOS** 版正在進行 Alpha 內部測試，**Android TV** 版即將推出。電視版功能框架與 iOS 版一致，圖片、音樂、視頻預覽針對電視操作優化。
 
 > ⭐ **Star 本倉庫**，第一時間獲知新平台上線通知。
 
