@@ -37,42 +37,59 @@ PouchVerse es una app de gestión de archivos **local-first / sin conexión** pa
 
 ## Todo en Uno
 
-Un sistema unificado para gestionar archivos digitales dispersos.
+### Los archivos nunca han estado en un solo lugar
 
-El caos de los archivos no proviene de la cantidad, sino de la estructura que obliga a "ponerlos todos en un lugar".
+Los archivos en el mundo real siempre están dispersos.
 
-Una foto del "viaje de equipo a la playa en verano de 2026" debe elegir un único destino en el sistema de archivos tradicional: la carpeta decide dónde está — no cómo tú lo recuerdas.
+Galería del móvil, historial de chats, carpeta de descargas, cada app con su propia copia.\
+Buscar un documento a menudo significa saltar entre diferentes lugares — o guardarlo varias veces.
 
-Eliminamos esa restricción. Los archivos ya no están atados a rutas — existen como información en sí misma. El almacenamiento queda oculto, la estructura queda liberada, y el mismo contenido puede pertenecer a múltiples dimensiones al mismo tiempo.
+La idea original era simple:\
+Reunir todos los archivos en un lugar y gestionarlos de forma unificada.
 
-Puede pertenecer simultáneamente a: "2026", "Verano", "Playa", "Team Building".
+Para que encontrar un archivo ya no dependa de la suerte.
 
----
+### La foto que cambió todo
 
-En el momento en que un archivo entra al sistema, ya ha sido reconstruido como una unidad de información comprensible:
+Hay una foto del viaje de equipo a la playa en el verano de 2026.
 
-- Extracción OCR
-- Indexación de texto completo
-- Cálculo de huella digital
-- Generación de miniaturas
-- Mejora de búsqueda multilingüe (Pinyin / iniciales)
+Con el método tradicional, tendría que ir a una carpeta:\
+¿"2026"? ¿"Team Building"? ¿"Playa"? ¿"Fotos de trabajo"?
 
-Esto no es "organizar archivos" — es hacer que los archivos sean encontrables desde el principio.
+Pero la foto en sí no pertenece a un solo lugar.
 
----
+Así que empezamos a repensar qué significa "guardar".\
+Los archivos ya no tienen que pertenecer a una sola carpeta — desde el principio, no están atados a rutas.
 
-El sistema está compuesto por tres niveles:
+El almacenamiento físico queda oculto; los usuarios ya no se enfrentan directamente a la estructura.\
+En su lugar, la información en sí queda liberada y puede organizarse por múltiples dimensiones a la vez:\
+2026, Verano, Playa, Team Building — cualquiera puede ser un punto de entrada.
 
-- **Móvil / Tableta** — El punto de entrada principal y centro de gestión de activos digitales
-- **Escritorio** — Nodo de procesamiento profundo y sincronización
-- **TV / Pantalla grande** — Terminal de consumo en streaming de la biblioteca completa
+### Los archivos se comprenden en el momento en que entran
 
-No duplican el sistema de archivos, solo comparten una misma estructura de información.
+Cuando un archivo se importa al sistema, ya ha cambiado.
 
----
+Ya no es un archivo estático — se convierte en una unidad de información reprocesada:\
+Se calcula la huella digital, se reconoce el contenido, se extrae el texto, se completa el OCR, se construye el índice, se genera la miniatura, y el texto chino recibe procesamiento de Pinyin e iniciales.
 
-Los archivos ya no pertenecen a carpetas.\
-Te pertenecen a ti, y fluyen a través de todos tus contextos.
+Todo esto ocurre en el momento de la entrada.
+
+Las carpetas tradicionales no hacen nada de esto.\
+Solo se encargan de "meter" — aquí nos encargamos de "hacer que sea encontrable."
+
+Desde el momento en que un archivo entra, ya es comprensible, buscable y asociable.
+
+### La información fluye entre todos los dispositivos
+
+Una vez que la información está estructurada, ya no está limitada por dispositivo.
+
+El móvil y la tableta se convierten en nodos centrales: responsables de importar, gestionar y albergar activos digitales.\
+El escritorio se convierte en el nodo de procesamiento: para organizar y refinar contenido importante, que luego vuelve al sistema.\
+El TV se convierte en el nodo de consumo: toda la información se sincroniza al instante y puede explorarse como un stream.
+
+Ya no mantienen cada uno su propio sistema de archivos — comparten una única estructura de información.
+
+Los archivos ya no están "en un dispositivo" — siempre pertenecen al mismo sistema, fluyendo entre diferentes contextos.
 
 ---
 

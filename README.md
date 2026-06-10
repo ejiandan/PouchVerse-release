@@ -38,42 +38,59 @@ PouchVerse is a **local-first, offline-capable** personal file manager for **mob
 
 ## One for All
 
-A unified system for handling scattered digital files.
+### Files Have Never Been in One Place
 
-The chaos of files doesn't come from quantity — it comes from a structure that forces everything into a single place.
+Files in the real world are always scattered.
 
-A photo from "Summer 2026 Team Beach Trip" must choose one home in a traditional file system: the folder decides where it lives — not how you remember it.
+Phone gallery, chat history, downloads folder, each app with its own copy.\
+Looking for a document often means switching between different places — or saving it multiple times.
 
-We removed that constraint. Files are no longer bound by paths — they exist as information itself. Storage is hidden, structure is freed, and the same content can belong to multiple dimensions simultaneously.
+The original idea was simple:\
+Bring all files into one place, and manage them uniformly.
 
-It can simultaneously belong to: "2026", "Summer", "Beach Trip", "Team Building".
+So that finding a file is no longer a matter of luck.
 
----
+### A Single Photo That Changed Everything
 
-When a file enters the system, it is immediately rebuilt as an understandable unit of information:
+There's a photo from a summer 2026 team beach trip.
 
-- OCR extraction
-- Full-text indexing
-- Fingerprint calculation
-- Thumbnail generation
-- Multi-language search enhancement (Pinyin / initials)
+With the traditional approach, it has to go into a single folder:\
+"2026"? "Team Building"? "Beach"? "Work Photos"?
 
-This isn't "organizing files" — it's making files findable from the very beginning.
+But the photo itself doesn't belong to just one place.
 
----
+So we started rethinking what "storing" means.\
+Files no longer have to belong to a single folder — from the beginning, they are no longer bound by paths.
 
-The system is built on three layers:
+Physical storage is hidden; users no longer face structure directly.\
+Instead, the information itself is freed and can be organized by multiple dimensions simultaneously:\
+2026, Summer, Beach, Team Building — any of these can become an entry point.
 
-- **Mobile / Tablet** — The core entry point and management hub for your digital assets
-- **Desktop** — Deep processing and sync node
-- **TV / Large Screen** — Streaming consumption terminal for your full library
+### Files Are Understood the Moment They Enter
 
-They don't duplicate the file system — they share one unified information structure.
+When a file is imported into the system, it has already changed.
 
----
+It is no longer just a static file — it becomes a reprocessed unit of information:\
+Fingerprint calculated, content recognized, text extracted, OCR completed, index built, thumbnail generated, and for Chinese content, Pinyin and initials are processed.
 
-Files no longer belong to folders.\
-They belong to you, and flow across all your contexts.
+All of this happens at the moment of entry.
+
+Traditional folders don't do any of this.\
+They only handle "putting it in" — here, we handle "making it findable."
+
+From the moment a file enters, it is already understandable, searchable, and associatable.
+
+### Information Flows Across All Devices
+
+Once information is structured, it is no longer bound by device.
+
+Mobile and tablet become core nodes: responsible for importing, managing, and holding digital assets.\
+Desktop becomes the processing node: for organizing and refining important content, then flowing it back into the system.\
+TV becomes the consumption node: all information can be instantly synced and browsed as a stream.
+
+They no longer each maintain their own file system — instead they share one unified information structure.
+
+Files are no longer "on a device" — they always belong to one system, flowing across different contexts.
 
 ---
 
