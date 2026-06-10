@@ -36,6 +36,45 @@ PouchVerse is a **local-first, offline-capable** personal file manager for **mob
 
 ---
 
+## One for All
+
+A unified system for handling scattered digital files.
+
+The chaos of files doesn't come from quantity — it comes from a structure that forces everything into a single place.
+
+A photo from "Summer 2026 Team Beach Trip" must choose one home in a traditional file system: the folder decides where it lives — not how you remember it.
+
+We removed that constraint. Files are no longer bound by paths — they exist as information itself. Storage is hidden, structure is freed, and the same content can belong to multiple dimensions simultaneously.
+
+---
+
+When a file enters the system, it is immediately rebuilt as an understandable unit of information:
+
+- OCR extraction
+- Full-text indexing
+- Fingerprint calculation
+- Thumbnail generation
+- Multi-language search enhancement (Pinyin / initials)
+
+This isn't "organizing files" — it's making files findable from the very beginning.
+
+---
+
+The system is built on three layers:
+
+- **Mobile / Tablet** — The core entry point and management hub for your digital assets
+- **Desktop** — Deep processing and sync node
+- **TV / Large Screen** — Streaming consumption terminal for your full library
+
+They don't duplicate the file system — they share one unified information structure.
+
+---
+
+Files no longer belong to folders.\
+They belong to you, and flow across all your contexts.
+
+---
+
 ## ✨ Why PouchVerse?
 
 On modern smartphones, files are scattered across social apps, emails, and browsers. Traditional file managers, ported from desktop "folder tree" logic, fail to handle this fragmentation efficiently.

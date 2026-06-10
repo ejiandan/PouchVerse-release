@@ -35,6 +35,45 @@ PouchVerse es una app de gestión de archivos **local-first / sin conexión** pa
 
 ---
 
+## Todo en Uno
+
+Un sistema unificado para gestionar archivos digitales dispersos.
+
+El caos de los archivos no proviene de la cantidad, sino de la estructura que obliga a "ponerlos todos en un lugar".
+
+Una foto del "viaje de equipo a la playa en verano de 2026" debe elegir un único destino en el sistema de archivos tradicional: la carpeta decide dónde está — no cómo tú lo recuerdas.
+
+Eliminamos esa restricción. Los archivos ya no están atados a rutas — existen como información en sí misma. El almacenamiento queda oculto, la estructura queda liberada, y el mismo contenido puede pertenecer a múltiples dimensiones al mismo tiempo.
+
+---
+
+En el momento en que un archivo entra al sistema, ya ha sido reconstruido como una unidad de información comprensible:
+
+- Extracción OCR
+- Indexación de texto completo
+- Cálculo de huella digital
+- Generación de miniaturas
+- Mejora de búsqueda multilingüe (Pinyin / iniciales)
+
+Esto no es "organizar archivos" — es hacer que los archivos sean encontrables desde el principio.
+
+---
+
+El sistema está compuesto por tres niveles:
+
+- **Móvil / Tableta** — El punto de entrada principal y centro de gestión de activos digitales
+- **Escritorio** — Nodo de procesamiento profundo y sincronización
+- **TV / Pantalla grande** — Terminal de consumo en streaming de la biblioteca completa
+
+No duplican el sistema de archivos, solo comparten una misma estructura de información.
+
+---
+
+Los archivos ya no pertenecen a carpetas.\
+Te pertenecen a ti, y fluyen a través de todos tus contextos.
+
+---
+
 ## ✨ ¿Por qué PouchVerse?
 
 En los smartphones modernos, los archivos están dispersos entre apps de mensajería, correos y navegadores. Los gestores de archivos tradicionales, trasladados de la lógica de "árbol de carpetas" del escritorio, no gestionan eficientemente esta fragmentación.
