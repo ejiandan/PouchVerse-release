@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-v1.0_已通过审核_6.16上线-brightgreen?style=flat-square&logo=apple" alt="iOS 已通过审核">
-  <img src="https://img.shields.io/badge/macOS_Transfer-审核中_6.16上线-orange?style=flat-square&logo=apple" alt="macOS Transfer 审核中">
+  <img src="https://img.shields.io/badge/macOS_Transfer-已通过审核_6.16上线-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer 已通过审核 6.16上线">
   <img src="https://img.shields.io/badge/Android-v1.0_审核中-orange?style=flat-square&logo=android" alt="Android v1.0 审核中">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已通过审核_6.16上线-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer 已通过审核 6.16上线">
   <img src="https://img.shields.io/badge/tvOS-Alpha_内部测试-blue?style=flat-square&logo=apple" alt="tvOS Alpha 内部测试">
@@ -115,7 +115,7 @@
 | 平台 | 状态 | 链接 |
 |---|---|---|
 | **iOS**（iPhone 和 iPad） | ✅ **已通过审核，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | 🟡 **审核中，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **macOS** (Transfer) | ✅ **已通过审核，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 审核中 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **已通过审核，6.16 上线** | [⬇️ 下载](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
 | **tvOS**（Apple TV） | 🧪 **Alpha 内部测试** | — |
