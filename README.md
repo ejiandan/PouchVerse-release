@@ -46,6 +46,8 @@ A photo from "Summer 2026 Team Beach Trip" must choose one home in a traditional
 
 We removed that constraint. Files are no longer bound by paths — they exist as information itself. Storage is hidden, structure is freed, and the same content can belong to multiple dimensions simultaneously.
 
+It can simultaneously belong to: "2026", "Summer", "Beach Trip", "Team Building".
+
 ---
 
 When a file enters the system, it is immediately rebuilt as an understandable unit of information:

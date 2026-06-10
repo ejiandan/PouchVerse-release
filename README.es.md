@@ -45,6 +45,8 @@ Una foto del "viaje de equipo a la playa en verano de 2026" debe elegir un únic
 
 Eliminamos esa restricción. Los archivos ya no están atados a rutas — existen como información en sí misma. El almacenamiento queda oculto, la estructura queda liberada, y el mismo contenido puede pertenecer a múltiples dimensiones al mismo tiempo.
 
+Puede pertenecer simultáneamente a: "2026", "Verano", "Playa", "Team Building".
+
 ---
 
 En el momento en que un archivo entra al sistema, ya ha sido reconstruido como una unidad de información comprensible:
