@@ -1,3 +1,0 @@
-# PouchVerse — tvOS Changelog
-
----
