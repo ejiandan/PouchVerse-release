@@ -43,7 +43,7 @@ loss of data, arising from your use of, or inability to use, the App.
 
 We may update the App and these Terms from time to time. The current version of
 these Terms is published at
-`https://github.com/ejiandan/PouchVerse-release/appletv/Terms-of-Use.md`.
+`https://github.com/ejiandan/PouchVerse-release/blob/main/tvOS/Terms-of-Use.md`.
 Continued use of the App after changes take effect constitutes acceptance.
 
 ## 7. Termination
