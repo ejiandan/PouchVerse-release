@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/iOS-v1.0_승인완료_6.16출시-brightgreen?style=flat-square&logo=apple" alt="iOS 승인완료">
   <img src="https://img.shields.io/badge/macOS_Transfer-승인완료_6.16출시-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer 승인 완료 6.16 출시">
   <img src="https://img.shields.io/badge/Android-v1.0_심사중-orange?style=flat-square&logo=android" alt="Android v1.0 심사중">
-  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_승인완료_6.16출시-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer 승인완료 6.16출시">  <img src="https://img.shields.io/badge/tvOS-Alpha_테스트중-blue?style=flat-square&logo=apple" alt="tvOS Alpha 테스트 중">
+  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_승인완료_6.16출시-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer 승인완료 6.16출시">  <img src="https://img.shields.io/badge/tvOS-v1.0_심사중-orange?style=flat-square&logo=apple" alt="tvOS v1.0 심사 중">
   <img src="https://img.shields.io/badge/Android_TV-출시예정-lightgrey?style=flat-square&logo=android" alt="Android TV 출시 예정">  <img src="https://img.shields.io/badge/개인정보-100%%25_로컬-green?style=flat-square" alt="개인정보">
   <img src="https://img.shields.io/badge/가격-일회성_구매-purple?style=flat-square" alt="가격">
 </p>
@@ -115,10 +115,10 @@ TV가 소비 노드가 됩니다: 모든 정보를 즉시 동기화하고 스트
 | **macOS** (Transfer) | ✅ **승인 완료 — 6/16 출시** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 심사 중 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **승인 완료 — 6/16 출시** | [⬇️ 다운로드](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
-| **tvOS** (Apple TV) | 🧪 **Alpha 내부 테스트 중** | — |
+| **tvOS** (Apple TV) | 🟡 **v1.0 심사 중 — App Store** | — |
 | **Android TV** | 🔜 출시 예정 | — |
 
-> 📌 **PouchVerse Transfer**（macOS / Windows）는 데스크퇱용 LAN 파일 전송 컴패니언 앱입니다. 완전한 파일 관리는 **iOS 및 Android**에서 이용할 수 있습니다. **tvOS**는 Alpha 내부 테스트 중이며, **Android TV**는 출시 예정입니다. TV 버전은 스마트폰 앱을 데이터 소스로 활용하는 대화면 확장 앱입니다. PouchVerse 라이브러리의 영상·사진·음악을 TV에서 즐길 수 있으며.
+> 📌 **PouchVerse Transfer**（macOS / Windows）는 데스크퇱용 LAN 파일 전송 컴패니언 앱입니다. 완전한 파일 관리는 **iOS 및 Android**에서 이용할 수 있습니다. **tvOS** v1.0은 App Store 심사 중이며, **Android TV**는 출시 예정입니다. TV 버전은 스마트폰 앱을 데이터 소스로 활용하는 대화면 확장 앱입니다. PouchVerse 라이브러리의 영상·사진·음악을 TV에서 즐길 수 있으며.
 
 > ⭐ **이 저장소를 스타**하여 새 플랫폼 출시 알림을 받으세요.
 
