@@ -17,16 +17,19 @@ Open the app. An empty file library is ready. On first launch, six sample user m
 There are three ways to bring files into PouchVerse:
 
 ### Method A: Share from Another App
+
 1. In any app (Mail, Safari, WeChat, etc.), long-press a file or attachment
 2. Tap **Share → Copy to PouchVerse**
 3. The file is imported automatically and appears in your library
 
 ### Method B: Import from Files App
+
 1. Tap the **⊕** button (top-right)
 2. Choose **Import from Files**
 3. Browse and select files using the iOS document picker
 
 ### Method C: Receive via LAN Transfer
+
 → See the [Transfer Guide](Transfer-Guide.md) for step-by-step instructions
 
 ---

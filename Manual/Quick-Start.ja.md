@@ -66,4 +66,4 @@
 
 ---
 
-*ご不明な点は [よくある質問](FAQ.md) または support@ejiandan.com へ。*
+*ご不明な点は [よくある質問](FAQ.md) または <support@ejiandan.com> へ。*
