@@ -118,7 +118,7 @@
 | **macOS** (Transfer) | ✅ **已通過審核，6.16 上線** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 審核中 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **已通過審核，6.16 上線** | [⬇️ 下載](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
-| **tvOS**（Apple TV） | 🟡 **v1.0 審核中 — App Store** | — |
+| **tvOS**（Apple TV） | 🟡 **v1.0 審核中 — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 即將推出 | — |
 
 > 📌 **儲物袋 Transfer**（macOS / Windows）為桌面平台提供局域網互傳功能；完整文件管理功能適用於 **iOS 與 Android**；**tvOS** v1.0 版已提交 App Store 審核，**Android TV** 版即將推出。電視版以手機 App 為資料來源，是手機端功能的大螢幕延伸——在電視上盡享已存入儲物袋的視頻、圖片與音樂。

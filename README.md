@@ -119,7 +119,7 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 | **macOS** (Transfer) | ✅ **Approved — Launching June 16** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 Under Review — Google Play** | — |
 | **Windows** (Transfer) | ✅ **Approved — Launching June 16** | [⬇️ Download](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
-| **tvOS** (Apple TV) | 🟡 **v1.0 Under Review — App Store** | — |
+| **tvOS** (Apple TV) | 🟡 **v1.0 Under Review — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 Coming Soon | — |
 
 > 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS & Android**; **tvOS** v1.0 is under App Store review, and **Android TV** is coming soon. TV versions use your phone as the data source — they are a big-screen companion for enjoying videos, photos, and music already in your PouchVerse library.
