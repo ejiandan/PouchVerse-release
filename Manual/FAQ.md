@@ -82,8 +82,8 @@ A: No. Speech-to-text uses Apple's Speech framework with `requiresOnDeviceRecogn
 ## Feedback & Support
 
 **Q: How do I report a bug or request a feature?**  
-A: [Open an issue](https://github.com/ejiandan/PouchVerse-release/issues) on GitHub, or email support@ejiandan.com.
+A: [Open an issue](https://github.com/ejiandan/PouchVerse-release/issues) on GitHub, or email <support@ejiandan.com>.
 
 ---
 
-*Can't find your answer? Email us: support@ejiandan.com*
+*Can't find your answer? Email us: <support@ejiandan.com>*

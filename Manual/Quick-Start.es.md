@@ -15,15 +15,18 @@ Abre la app. La biblioteca de archivos está vacía y lista. En el primer inicio
 ## Paso 2: Importar archivos
 
 ### Método A: Compartir desde otra app
+
 1. Mantén pulsado un archivo en Correo, Safari, etc.
 2. Toca **Compartir → Copiar a PouchVerse**
 3. El archivo se importa automáticamente
 
 ### Método B: Desde la app Archivos
+
 1. Toca el botón **⊕** (arriba a la derecha)
 2. Elige **Importar desde Archivos**
 
 ### Método C: Recibir por transferencia LAN
+
 → Consulta la [Guía de Transferencia](Transfer-Guide.md)
 
 ---
@@ -39,6 +42,7 @@ Abre la app. La biblioteca de archivos está vacía y lista. En el primer inicio
 ## Paso 4: Organizar archivos
 
 **Mantén pulsado** cualquier archivo para abrir el menú radial:
+
 - **Organizar** — carpetas virtuales, etiquetas, color, uso
 - **Compartir** — panel de compartir del sistema
 - **Transferir** — enviar a otro dispositivo por LAN
@@ -53,4 +57,4 @@ Barra lateral (☰) → **Privado** → Face ID / Touch ID → en el panel Organ
 
 ---
 
-*¿Preguntas? Consulta las [Preguntas Frecuentes](FAQ.md) o escribe a support@ejiandan.com*
+*¿Preguntas? Consulta las [Preguntas Frecuentes](FAQ.md) o escribe a <support@ejiandan.com>*
