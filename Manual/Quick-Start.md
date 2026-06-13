@@ -78,4 +78,4 @@ You can also **swipe left** on a file to delete or mark it.
 
 ---
 
-*Questions? Check [FAQ](FAQ.md) or contact support@ejiandan.com*
+*Questions? Check [FAQ](FAQ.md) or contact <support@ejiandan.com>*
