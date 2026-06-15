@@ -4,7 +4,8 @@
 
 ## v1.0.0.0
 
-**Status:** Submitted to Microsoft Store — Under Review
+**Status:** Live on Microsoft Store
+**Microsoft Store:** <https://apps.microsoft.com/detail/9MWN47WXN7S8>
 
 > Note: This version is functionally identical to v1.0.0 released on GitHub Releases. The four-part version number (1.0.0.0) follows Microsoft Store requirements.
 

@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_Approved_June_16-brightgreen?style=flat-square&logo=apple" alt="iOS Approved June 16">
-  <img src="https://img.shields.io/badge/macOS_Transfer-Approved_June_16-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer Approved June 16">
+  <img src="https://img.shields.io/badge/iOS-v1.0_Live-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0 Live">
+  <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 Live">
   <img src="https://img.shields.io/badge/Android-v1.0_Under_Review-orange?style=flat-square&logo=android" alt="Android v1.0 Under Review">
-  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Approved_June_16-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer Approved June 16">
+  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 Live">
   <img src="https://img.shields.io/badge/tvOS-v1.0_Under_Review-orange?style=flat-square&logo=apple" alt="tvOS v1.0 Under Review">
   <img src="https://img.shields.io/badge/Android_TV-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android TV Coming Soon">
   <img src="https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad%20%7C%20Mac%20%7C%20Android%20%7C%20Win%20%7C%20tvOS%20%7C%20Android%20TV-blue?style=flat-square" alt="Platforms">
@@ -115,10 +115,10 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 
 | Platform | Status | Link |
 |---|---|---|
-| **iOS** (iPhone & iPad) | ✅ **Approved — Launching June 16** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | ✅ **Approved — Launching June 16** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **iOS** (iPhone & iPad) | ✅ **v1.0 Live** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS** (Transfer) | ✅ **v1.0 Live** | [🛒 App Store](https://apps.apple.com/app/id6773520285) · [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 Under Review — Google Play** | — |
-| **Windows** (Transfer) | ✅ **Approved — Launching June 16** | [⬇️ Download](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
+| **Windows** (Transfer) | ✅ **v1.0 Live** | [⬇️ Download](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
 | **tvOS** (Apple TV) | 🟡 **v1.0 Under Review — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 Coming Soon | — |
 
@@ -197,7 +197,7 @@ See the full [Privacy Policy](Legal/Privacy-Policy.md) for details.
 If PouchVerse is useful to you, please consider:
 
 - ⭐ **Starring this repository** — it helps others discover the project
-- 📝 **Leaving a review** on the App Store (launching June 16)
+- 📝 **Leaving a review** on the [App Store](https://apps.apple.com/app/id6766184837)
 - 📢 **Sharing** with friends who need a better file manager
 
 ---

@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_승인완료_6.16출시-brightgreen?style=flat-square&logo=apple" alt="iOS 승인완료">
-  <img src="https://img.shields.io/badge/macOS_Transfer-승인완료_6.16출시-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer 승인 완료 6.16 출시">
+  <img src="https://img.shields.io/badge/iOS-v1.0_출시됨-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0 출시됨">
+  <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_출시됨-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 출시됨">
   <img src="https://img.shields.io/badge/Android-v1.0_심사중-orange?style=flat-square&logo=android" alt="Android v1.0 심사중">
-  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_승인완료_6.16출시-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer 승인완료 6.16출시">  <img src="https://img.shields.io/badge/tvOS-v1.0_심사중-orange?style=flat-square&logo=apple" alt="tvOS v1.0 심사 중">
+  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_출시됨-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 출시됨">  <img src="https://img.shields.io/badge/tvOS-v1.0_심사중-orange?style=flat-square&logo=apple" alt="tvOS v1.0 심사 중">
   <img src="https://img.shields.io/badge/Android_TV-출시예정-lightgrey?style=flat-square&logo=android" alt="Android TV 출시 예정">  <img src="https://img.shields.io/badge/개인정보-100%%25_로컬-green?style=flat-square" alt="개인정보">
   <img src="https://img.shields.io/badge/가격-일회성_구매-purple?style=flat-square" alt="가격">
 </p>
@@ -111,10 +111,10 @@ TV가 소비 노드가 됩니다: 모든 정보를 즉시 동기화하고 스트
 
 | 플랫폼 | 상태 | 링크 |
 |---|---|---|
-| **iOS** (iPhone & iPad) | ✅ **승인 완료 — 6/16 출시** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | ✅ **승인 완료 — 6/16 출시** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **iOS** (iPhone & iPad) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS** (Transfer) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6773520285) · [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 심사 중 — Google Play** | — |
-| **Windows** (Transfer) | ✅ **승인 완료 — 6/16 출시** | [⬇️ 다운로드](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
+| **Windows** (Transfer) | ✅ **v1.0 출시됨** | [⬇️ 다운로드](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
 | **tvOS** (Apple TV) | 🟡 **v1.0 심사 중 — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 출시 예정 | — |
 

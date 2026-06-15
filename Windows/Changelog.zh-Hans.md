@@ -4,7 +4,8 @@
 
 ## v1.0.0.0
 
-**状态：** 已提交 Microsoft Store 审核
+**状态：** 已上线 Microsoft Store
+**Microsoft Store：** <https://apps.microsoft.com/detail/9MWN47WXN7S8>
 
 > 注：此版本与 GitHub Releases 发布的 v1.0.0 功能完全一致，为适配 Microsoft Store 渠道采用四段式版本号格式。
 

@@ -38,7 +38,8 @@
 
 ## v1.0
 
-**Status:** App Store Approved — Launching June 16, 2026  
+**Status:** Live on App Store
+**App Store:** <https://apps.apple.com/app/id6766184837>  
 **TestFlight:** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### Initial Release

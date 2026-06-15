@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_已通過審核_6.16上線-brightgreen?style=flat-square&logo=apple" alt="iOS 已通過審核">
-  <img src="https://img.shields.io/badge/macOS_Transfer-已通過審核_6.16上線-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer 已通過審核 6.16上線">
+  <img src="https://img.shields.io/badge/iOS-v1.0_已上線-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0 已上線">
+  <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_已上線-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 已上線">
   <img src="https://img.shields.io/badge/Android-v1.0_審核中-orange?style=flat-square&logo=android" alt="Android v1.0 審核中">
-  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已通過審核_6.16上線-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer 已通過審核 6.16上線">
+  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已上線-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 已上線">
   <img src="https://img.shields.io/badge/tvOS-v1.0_審核中-orange?style=flat-square&logo=apple" alt="tvOS v1.0 審核中">
   <img src="https://img.shields.io/badge/Android_TV-即將推出-lightgrey?style=flat-square&logo=android" alt="Android TV 即將推出">
   <img src="https://img.shields.io/badge/隱私-100%%25_本地-green?style=flat-square" alt="隱私">
@@ -114,10 +114,10 @@
 
 | 平台 | 狀態 | 連結 |
 |---|---|---|
-| **iOS**（iPhone 和 iPad） | ✅ **已通過審核，6.16 上線** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | ✅ **已通過審核，6.16 上線** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **iOS**（iPhone 和 iPad） | ✅ **v1.0 已上線** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS** (Transfer) | ✅ **v1.0 已上線** | [🛒 App Store](https://apps.apple.com/app/id6773520285) · [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 審核中 — Google Play** | — |
-| **Windows** (Transfer) | ✅ **已通過審核，6.16 上線** | [⬇️ 下載](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
+| **Windows** (Transfer) | ✅ **v1.0 已上線** | [⬇️ 下載](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
 | **tvOS**（Apple TV） | 🟡 **v1.0 審核中 — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 即將推出 | — |
 

@@ -38,7 +38,8 @@
 
 ## v1.0
 
-**状态：** 已通过 App Store 审核，2026 年 6 月 16 日正式上线  
+**状态：** 已上线 App Store
+**App Store：** <https://apps.apple.com/app/id6766184837>  
 **TestFlight：** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### 首发功能

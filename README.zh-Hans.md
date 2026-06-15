@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_已通过审核_6.16上线-brightgreen?style=flat-square&logo=apple" alt="iOS 已通过审核">
-  <img src="https://img.shields.io/badge/macOS_Transfer-已通过审核_6.16上线-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer 已通过审核 6.16上线">
+  <img src="https://img.shields.io/badge/iOS-v1.0_已上线-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0 已上线">
+  <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_已上线-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 已上线">
   <img src="https://img.shields.io/badge/Android-v1.0_审核中-orange?style=flat-square&logo=android" alt="Android v1.0 审核中">
-  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已通过审核_6.16上线-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer 已通过审核 6.16上线">
+  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已上线-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 已上线">
   <img src="https://img.shields.io/badge/tvOS-v1.0_审核中-orange?style=flat-square&logo=apple" alt="tvOS v1.0 审核中">
   <img src="https://img.shields.io/badge/Android_TV-即将推出-lightgrey?style=flat-square&logo=android" alt="Android TV 即将推出">
   <img src="https://img.shields.io/badge/隐私-100%25_本地-green?style=flat-square" alt="隐私">
@@ -114,10 +114,10 @@
 
 | 平台 | 状态 | 链接 |
 |---|---|---|
-| **iOS**（iPhone 和 iPad） | ✅ **已通过审核，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | ✅ **已通过审核，6.16 上线** | [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **iOS**（iPhone 和 iPad） | ✅ **v1.0 已上线** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS** (Transfer) | ✅ **v1.0 已上线** | [🛒 App Store](https://apps.apple.com/app/id6773520285) · [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
 | **Android** | 🟡 **v1.0 审核中 — Google Play** | — |
-| **Windows** (Transfer) | ✅ **已通过审核，6.16 上线** | [⬇️ 下载](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · 🏪 Microsoft Store |
+| **Windows** (Transfer) | ✅ **v1.0 已上线** | [⬇️ 下载](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
 | **tvOS**（Apple TV） | 🟡 **v1.0 审核中 — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 即将推出 | — |
 
@@ -196,7 +196,7 @@
 如果储物袋对您有帮助，欢迎：
 
 - ⭐ **Star 本仓库** — 帮助更多人发现这个项目
-- 📝 在 App Store **留下评价**（6.16 开放）
+- 📝 在 [App Store](https://apps.apple.com/app/id6766184837) **留下评价**
 - 📢 **分享**给需要更好文件管理工具的朋友
 
 ---
