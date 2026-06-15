@@ -113,11 +113,11 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 
 | Plataforma | Estado | Enlace |
 |---|---|---|
-| **iOS** (iPhone & iPad) | ✅ **v1.0 Disponible** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | ✅ **v1.0 Disponible** | [🛒 App Store](https://apps.apple.com/app/id6773520285) · [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **iOS** (iPhone & iPad) | ✅ **v1.0 Disponible** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 v1.0.2 TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS** (Transfer) | ✅ **v1.0 Disponible** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | 🟡 **v1.0 En Revisión — Google Play** | — |
 | **Windows** (Transfer) | ✅ **v1.0 Disponible** | [⬇️ Descargar](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
-| **tvOS** (Apple TV) | 🟡 **v1.0 En revisión — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
+| **tvOS** (Apple TV) | 🟡 **v1.0 En revisión — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 Próximamente | — |
 
 > 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS y Android**. **tvOS** v1.0 está en revisión en App Store, y **Android TV** llegará próximamente. Las versiones para TV usan la app del móvil como fuente de datos: son una extensión en pantalla grande para disfrutar de los vídeos, fotos y música ya guardados en PouchVerse.

@@ -111,11 +111,11 @@ TV가 소비 노드가 됩니다: 모든 정보를 즉시 동기화하고 스트
 
 | 플랫폼 | 상태 | 링크 |
 |---|---|---|
-| **iOS** (iPhone & iPad) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6773520285) · [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **iOS** (iPhone & iPad) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 v1.0.2 TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS** (Transfer) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | 🟡 **v1.0 심사 중 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **v1.0 출시됨** | [⬇️ 다운로드](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
-| **tvOS** (Apple TV) | 🟡 **v1.0 심사 중 — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
+| **tvOS** (Apple TV) | 🟡 **v1.0 심사 중 — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 출시 예정 | — |
 
 > 📌 **PouchVerse Transfer**（macOS / Windows）는 데스크퇱용 LAN 파일 전송 컴패니언 앱입니다. 완전한 파일 관리는 **iOS 및 Android**에서 이용할 수 있습니다. **tvOS** v1.0은 App Store 심사 중이며, **Android TV**는 출시 예정입니다. TV 버전은 스마트폰 앱을 데이터 소스로 활용하는 대화면 확장 앱입니다. PouchVerse 라이브러리의 영상·사진·음악을 TV에서 즐길 수 있으며.

@@ -2,9 +2,38 @@
 
 ---
 
-## v1.0.1
+## v1.0.2
 
 **状态：** 已提交 App Store 审核 · TestFlight 公开测试已通过  
+**TestFlight：** <https://testflight.apple.com/join/8t2n7tmd>
+
+### 新增功能
+
+#### Apple TV 大屏播放支持
+
+- 新增 Apple TV 大屏播放支持：与 tvOS 版「储物袋」配合，将照片、音乐与视频投屏到电视观看。
+
+### 功能优化
+
+#### 媒体解码与音轨兼容性
+
+- 优化媒体解码与音轨兼容性，更多视频声音播放更稳定。
+
+### 问题修复
+
+#### 文件可见性
+
+- 修复部分文件类型在设备间不可见的问题。
+
+#### 局域网传输
+
+- 提升局域网设备发现的连接稳定性。
+
+---
+
+## v1.0.1
+
+**状态：** TestFlight 公开测试已通过  
 **TestFlight：** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### 问题修复

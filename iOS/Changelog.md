@@ -2,9 +2,38 @@
 
 ---
 
-## v1.0.1
+## v1.0.2
 
 **Status:** Submitted to App Store · TestFlight Public Beta Approved  
+**TestFlight:** <https://testflight.apple.com/join/8t2n7tmd>
+
+### New Features
+
+#### Apple TV Big-Screen Playback
+
+- Added Apple TV big-screen playback support: pairs with PouchVerse for tvOS to stream photos, music, and video from your library to the TV.
+
+### Improvements
+
+#### Media Decoding & Audio Compatibility
+
+- Improved media decoding and audio track compatibility for more stable audio playback across a wider range of video files.
+
+### Bug Fixes
+
+#### File Visibility
+
+- Fixed an issue where certain file types were not visible across devices.
+
+#### LAN Transfer
+
+- Improved connection stability for LAN device discovery.
+
+---
+
+## v1.0.1
+
+**Status:** TestFlight Public Beta Approved  
 **TestFlight:** <https://testflight.apple.com/join/8t2n7tmd>
 
 ### Bug Fixes

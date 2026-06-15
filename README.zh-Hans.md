@@ -114,11 +114,11 @@
 
 | 平台 | 状态 | 链接 |
 |---|---|---|
-| **iOS**（iPhone 和 iPad） | ✅ **v1.0 已上线** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 Beta TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
-| **macOS** (Transfer) | ✅ **v1.0 已上线** | [🛒 App Store](https://apps.apple.com/app/id6773520285) · [🧪 Beta TestFlight](https://testflight.apple.com/join/5Bk89gBb) |
+| **iOS**（iPhone 和 iPad） | ✅ **v1.0 已上线** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 v1.0.2 TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **macOS** (Transfer) | ✅ **v1.0 已上线** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | 🟡 **v1.0 审核中 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **v1.0 已上线** | [⬇️ 下载](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
-| **tvOS**（Apple TV） | 🟡 **v1.0 审核中 — App Store** | [🧪 Beta TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
+| **tvOS**（Apple TV） | 🟡 **v1.0 审核中 — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 即将推出 | — |
 
 > 📌 **储物袋 Transfer**（macOS / Windows）为桌面平台提供局域网互传功能；完整文件管理功能适用于 **iOS 与 Android**；**tvOS** v1.0 版已提交 App Store 审核，**Android TV** 版即将推出。电视版以手机 App 为数据源，是手机端功能的大屏延伸——在电视上畅享已存入储物袋的视频、图片与音乐。
