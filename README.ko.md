@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_출시됨-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0 출시됨">
+  <img src="https://img.shields.io/badge/iOS-v1.0.2_출시됨-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0.2 출시됨">
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_출시됨-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 출시됨">
   <img src="https://img.shields.io/badge/Android-v1.0_심사중-orange?style=flat-square&logo=android" alt="Android v1.0 심사중">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_출시됨-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 출시됨">  <img src="https://img.shields.io/badge/tvOS-v1.0_심사중-orange?style=flat-square&logo=apple" alt="tvOS v1.0 심사 중">
@@ -115,7 +115,7 @@ TV가 소비 노드가 됩니다: 모든 정보를 즉시 동기화하고 스트
 
 | 플랫폼 | 상태 | 링크 |
 |---|---|---|
-| **iOS** (iPhone & iPad) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 v1.0.2 TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **iOS** (iPhone & iPad) | ✅ **v1.0.2 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6766184837) |
 | **macOS** (Transfer) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | 🟡 **v1.0 심사 중 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **v1.0 출시됨** | [⬇️ 다운로드](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |

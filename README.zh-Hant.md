@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_已上線-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0 已上線">
+  <img src="https://img.shields.io/badge/iOS-v1.0.2_已上線-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0.2 已上線">
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_已上線-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 已上線">
   <img src="https://img.shields.io/badge/Android-v1.0_審核中-orange?style=flat-square&logo=android" alt="Android v1.0 審核中">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已上線-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 已上線">
@@ -118,7 +118,7 @@
 
 | 平台 | 狀態 | 連結 |
 |---|---|---|
-| **iOS**（iPhone 和 iPad） | ✅ **v1.0 已上線** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 v1.0.2 TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **iOS**（iPhone 和 iPad） | ✅ **v1.0.2 已上線** | [🛒 App Store](https://apps.apple.com/app/id6766184837) |
 | **macOS** (Transfer) | ✅ **v1.0 已上線** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | 🟡 **v1.0 審核中 — Google Play** | — |
 | **Windows** (Transfer) | ✅ **v1.0 已上線** | [⬇️ 下載](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |

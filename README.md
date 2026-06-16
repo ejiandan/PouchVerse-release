@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-v1.0_Live-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0 Live">
+  <img src="https://img.shields.io/badge/iOS-v1.0.2_Live-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0.2 Live">
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 Live">
   <img src="https://img.shields.io/badge/Android-v1.0_Under_Review-orange?style=flat-square&logo=android" alt="Android v1.0 Under Review">
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 Live">
@@ -119,7 +119,7 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 
 | Platform | Status | Link |
 |---|---|---|
-| **iOS** (iPhone & iPad) | ✅ **v1.0 Live** | [🛒 App Store](https://apps.apple.com/app/id6766184837) · [🧪 v1.0.2 TestFlight](https://testflight.apple.com/join/8t2n7tmd) |
+| **iOS** (iPhone & iPad) | ✅ **v1.0.2 Live** | [🛒 App Store](https://apps.apple.com/app/id6766184837) |
 | **macOS** (Transfer) | ✅ **v1.0 Live** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | 🟡 **v1.0 Under Review — Google Play** | — |
 | **Windows** (Transfer) | ✅ **v1.0 Live** | [⬇️ Download](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
