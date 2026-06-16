@@ -127,7 +127,7 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 | **Android TV** | 🔜 Coming Soon | — |
 
 > 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS & Android**; **tvOS** v1.0 is under App Store review, and **Android TV** is coming soon. TV versions use your phone as the data source — they are a big-screen companion for enjoying videos, photos, and music already in your PouchVerse library.
-
+>
 > ⭐ **Star this repo** to get notified when new platforms launch.
 
 ---
@@ -151,11 +151,11 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="Assets/Screenshots/iPhone/03_English/01_All-In-One.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/03_English/02_Instant%20Find.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/03_English/03_Quick%20View.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/03_English/04_Easy%20Access.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/03_English/05_Flexible%20Org.png" width="18%">
+  <img src="Assets/Screenshots/iPhone/03_English/01_All-In-One.png" width="18%" alt="All In One">
+  <img src="Assets/Screenshots/iPhone/03_English/02_Instant%20Find.png" width="18%" alt="Instant Find">
+  <img src="Assets/Screenshots/iPhone/03_English/03_Quick%20View.png" width="18%" alt="Quick View">
+  <img src="Assets/Screenshots/iPhone/03_English/04_Easy%20Access.png" width="18%" alt="Easy Access">
+  <img src="Assets/Screenshots/iPhone/03_English/05_Flexible%20Org.png" width="18%" alt="Flexible Organization">
 </p>
 
 > Full screenshot set (iPhone & iPad, 6 languages) is available in [`/Assets/Screenshots/`](Assets/Screenshots/).
@@ -191,7 +191,7 @@ See the full [Privacy Policy](Legal/Privacy-Policy.md) for details.
 
 ## 💬 Feedback & Support
 
-- **Email:** support@ejiandan.com
+- **Email:** [support@ejiandan.com](mailto:support@ejiandan.com)
 - **Issues:** [Open an issue](https://github.com/ejiandan/PouchVerse-release/issues) for bug reports or feature requests
 
 ---

@@ -123,7 +123,7 @@ TV가 소비 노드가 됩니다: 모든 정보를 즉시 동기화하고 스트
 | **Android TV** | 🔜 출시 예정 | — |
 
 > 📌 **PouchVerse Transfer**（macOS / Windows）는 데스크퇱용 LAN 파일 전송 컴패니언 앱입니다. 완전한 파일 관리는 **iOS 및 Android**에서 이용할 수 있습니다. **tvOS** v1.0은 App Store 심사 중이며, **Android TV**는 출시 예정입니다. TV 버전은 스마트폰 앱을 데이터 소스로 활용하는 대화면 확장 앱입니다. PouchVerse 라이브러리의 영상·사진·음악을 TV에서 즐길 수 있으며.
-
+>
 > ⭐ **이 저장소를 스타**하여 새 플랫폼 출시 알림을 받으세요.
 
 ---
@@ -139,7 +139,7 @@ TV가 소비 노드가 됩니다: 모든 정보를 즉시 동기화하고 스트
 
 ## 💬 피드백 및 지원
 
-- **이메일:** support@ejiandan.com
+- **이메일:** [support@ejiandan.com](mailto:support@ejiandan.com)
 - **Issues:** [이슈 열기](https://github.com/ejiandan/PouchVerse-release/issues)
 
 ---

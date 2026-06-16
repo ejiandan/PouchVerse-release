@@ -73,4 +73,4 @@
 
 ---
 
-*有疑问？查看[常见问题](FAQ.md) 或联系 support@ejiandan.com*
+*有疑问？查看[常见问题](FAQ.md) 或联系 [support@ejiandan.com](mailto:support@ejiandan.com)*
