@@ -73,4 +73,4 @@ For Apple devices (iPhone ↔ iPhone, iPhone ↔ Mac), direct **peer-to-peer Wi-
 
 ---
 
-*Questions? See [FAQ](FAQ.md) or contact support@ejiandan.com*
+*Questions? See [FAQ](FAQ.md) or contact [support@ejiandan.com](mailto:support@ejiandan.com)*

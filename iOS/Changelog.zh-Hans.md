@@ -1,5 +1,7 @@
 # 储物袋（PouchVerse）iOS 版本历史
 
+<!-- markdownlint-disable MD024 -->
+
 ---
 
 ## v1.0.2

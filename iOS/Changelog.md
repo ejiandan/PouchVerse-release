@@ -1,5 +1,7 @@
 # PouchVerse — iOS Changelog
 
+<!-- markdownlint-disable MD024 -->
+
 ---
 
 ## v1.0.2
