@@ -4,8 +4,7 @@
 
 ## v1.0.2
 
-**Status:** Submitted to App Store · TestFlight Public Beta Approved  
-**TestFlight:** <https://testflight.apple.com/join/8t2n7tmd>
+**Status:** Available on App Store
 
 ### New Features
 

@@ -4,8 +4,7 @@
 
 ## v1.0.2
 
-**状态：** 已提交 App Store 审核 · TestFlight 公开测试已通过  
-**TestFlight：** <https://testflight.apple.com/join/8t2n7tmd>
+**状态：** 已上线 App Store
 
 ### 新增功能
 
