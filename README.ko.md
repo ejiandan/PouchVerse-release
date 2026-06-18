@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/iOS-v1.0.2_출시됨-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0.2 출시됨">
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_출시됨-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 출시됨">
   <a href="https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse"><img src="https://img.shields.io/badge/Android-v1.0_출시됨-brightgreen?style=flat-square&logo=android" alt="Android v1.0 출시됨"></a>
-  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_출시됨-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 출시됨">  <img src="https://img.shields.io/badge/tvOS-v1.0_심사중-orange?style=flat-square&logo=apple" alt="tvOS v1.0 심사 중">
+  <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_출시됨-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 출시됨">  <a href="https://apps.apple.com/app/id6778987369"><img src="https://img.shields.io/badge/tvOS-v1.0_출시됨-brightgreen?style=flat-square&logo=apple" alt="tvOS v1.0 출시됨"></a>
   <img src="https://img.shields.io/badge/Android_TV-출시예정-lightgrey?style=flat-square&logo=android" alt="Android TV 출시 예정">  <img src="https://img.shields.io/badge/개인정보-100%%25_로컬-green?style=flat-square" alt="개인정보">
   <img src="https://img.shields.io/badge/가격-일회성_구매-purple?style=flat-square" alt="가격">
 </p>
@@ -115,10 +115,10 @@ TV가 소비 노드가 됩니다: 모든 정보를 즉시 동기화하고 스트
 | **macOS** (Transfer) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | ✅ **v1.0 출시됨** | [🛒 Google Play](https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse) |
 | **Windows** (Transfer) | ✅ **v1.0 출시됨** | [⬇️ 다운로드](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
-| **tvOS** (Apple TV) | 🟡 **v1.0 심사 중 — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
+| **tvOS** (Apple TV) | ✅ **v1.0 출시됨** | [🛒 App Store](https://apps.apple.com/app/id6778987369) |
 | **Android TV** | 🔜 출시 예정 | — |
 
-> 📌 **PouchVerse Transfer**（macOS / Windows）는 데스크퇱용 LAN 파일 전송 컴패니언 앱입니다. 완전한 파일 관리는 **iOS 및 Android**에서 이용할 수 있습니다. **tvOS** v1.0은 App Store 심사 중이며, **Android TV**는 출시 예정입니다. TV 버전은 스마트폰 앱을 데이터 소스로 활용하는 대화면 확장 앱입니다. PouchVerse 라이브러리의 영상·사진·음악을 TV에서 즐길 수 있으며.
+> 📌 **PouchVerse Transfer**（macOS / Windows）는 데스크퇱용 LAN 파일 전송 컴패니언 앱입니다. 완전한 파일 관리는 **iOS 및 Android**에서 이용할 수 있습니다. **tvOS** v1.0은 App Store에 출시되었으며, **Android TV**는 출시 예정입니다. TV 버전은 스마트폰 앱을 데이터 소스로 활용하는 대화면 확장 앱입니다. PouchVerse 라이브러리의 영상·사진·음악을 TV에서 즐길 수 있습니다.
 >
 > ⭐ **이 저장소를 스타**하여 새 플랫폼 출시 알림을 받으세요.
 

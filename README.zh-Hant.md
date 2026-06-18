@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_已上線-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 已上線">
   <a href="https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse"><img src="https://img.shields.io/badge/Android-v1.0_已上線-brightgreen?style=flat-square&logo=android" alt="Android v1.0 已上線"></a>
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_已上線-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 已上線">
-  <img src="https://img.shields.io/badge/tvOS-v1.0_審核中-orange?style=flat-square&logo=apple" alt="tvOS v1.0 審核中">
+  <a href="https://apps.apple.com/app/id6778987369"><img src="https://img.shields.io/badge/tvOS-v1.0_已上線-brightgreen?style=flat-square&logo=apple" alt="tvOS v1.0 已上線"></a>
   <img src="https://img.shields.io/badge/Android_TV-即將推出-lightgrey?style=flat-square&logo=android" alt="Android TV 即將推出">
   <img src="https://img.shields.io/badge/隱私-100%%25_本地-green?style=flat-square" alt="隱私">
   <img src="https://img.shields.io/badge/價格-一次性買斷-purple?style=flat-square" alt="價格">
@@ -118,10 +118,10 @@
 | **macOS** (Transfer) | ✅ **v1.0 已上線** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | ✅ **v1.0 已上線** | [🛒 Google Play](https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse) |
 | **Windows** (Transfer) | ✅ **v1.0 已上線** | [⬇️ 下載](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
-| **tvOS**（Apple TV） | 🟡 **v1.0 審核中 — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
+| **tvOS**（Apple TV） | ✅ **v1.0 已上線** | [🛒 App Store](https://apps.apple.com/app/id6778987369) |
 | **Android TV** | 🔜 即將推出 | — |
 
-> 📌 **儲物袋 Transfer**（macOS / Windows）為桌面平台提供局域網互傳功能；完整文件管理功能適用於 **iOS 與 Android**；**tvOS** v1.0 版已提交 App Store 審核，**Android TV** 版即將推出。電視版以手機 App 為資料來源，是手機端功能的大螢幕延伸——在電視上盡享已存入儲物袋的視頻、圖片與音樂。
+> 📌 **儲物袋 Transfer**（macOS / Windows）為桌面平台提供局域網互傳功能；完整文件管理功能適用於 **iOS 與 Android**；**tvOS** v1.0 版已上線 App Store，**Android TV** 版即將推出。電視版以手機 App 為資料來源，是手機端功能的大螢幕延伸——在電視上盡享已存入儲物袋的視頻、圖片與音樂。
 >
 > ⭐ **Star 本倉庫**，第一時間獲知新平台上線通知。
 

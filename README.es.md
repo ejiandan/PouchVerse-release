@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_Disponible-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 Disponible">
   <a href="https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse"><img src="https://img.shields.io/badge/Android-v1.0_Disponible-brightgreen?style=flat-square&logo=android" alt="Android v1.0 Disponible"></a>
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Disponible-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 Disponible">
-  <img src="https://img.shields.io/badge/tvOS-v1.0_En_Revision-orange?style=flat-square&logo=apple" alt="tvOS v1.0 En Revisión">
+  <a href="https://apps.apple.com/app/id6778987369"><img src="https://img.shields.io/badge/tvOS-v1.0_Disponible-brightgreen?style=flat-square&logo=apple" alt="tvOS v1.0 Disponible"></a>
   <img src="https://img.shields.io/badge/Android_TV-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android TV Coming Soon">
   <img src="https://img.shields.io/badge/Privacidad-100%%25_Local-green?style=flat-square" alt="Privacidad">
   <img src="https://img.shields.io/badge/Precio-Pago_único-purple?style=flat-square" alt="Precio">
@@ -117,10 +117,10 @@ En los smartphones modernos, los archivos están dispersos entre apps de mensaje
 | **macOS** (Transfer) | ✅ **v1.0 Disponible** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | ✅ **v1.0 Disponible** | [🛒 Google Play](https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse) |
 | **Windows** (Transfer) | ✅ **v1.0 Disponible** | [⬇️ Descargar](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
-| **tvOS** (Apple TV) | 🟡 **v1.0 En revisión — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
+| **tvOS** (Apple TV) | ✅ **v1.0 Disponible** | [🛒 App Store](https://apps.apple.com/app/id6778987369) |
 | **Android TV** | 🔜 Próximamente | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS y Android**. **tvOS** v1.0 está en revisión en App Store, y **Android TV** llegará próximamente. Las versiones para TV usan la app del móvil como fuente de datos: son una extensión en pantalla grande para disfrutar de los vídeos, fotos y música ya guardados en PouchVerse.
+> 📌 **PouchVerse Transfer** (macOS / Windows) es la app de escritorio para transferencia de archivos por LAN. La gestión completa de archivos está disponible en **iOS y Android**. **tvOS** v1.0 ya está disponible en App Store, y **Android TV** llegará próximamente. Las versiones para TV usan la app del móvil como fuente de datos: son una extensión en pantalla grande para disfrutar de los vídeos, fotos y música ya guardados en PouchVerse.
 >
 > ⭐ **Dale una estrella** a este repositorio para recibir notificaciones de nuevas plataformas.
 

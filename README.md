@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 Live">
   <a href="https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse"><img src="https://img.shields.io/badge/Android-v1.0_Live-brightgreen?style=flat-square&logo=android" alt="Android v1.0 Live"></a>
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 Live">
-  <img src="https://img.shields.io/badge/tvOS-v1.0_Under_Review-orange?style=flat-square&logo=apple" alt="tvOS v1.0 Under Review">
+  <a href="https://apps.apple.com/app/id6778987369"><img src="https://img.shields.io/badge/tvOS-v1.0_Live-brightgreen?style=flat-square&logo=apple" alt="tvOS v1.0 Live"></a>
   <img src="https://img.shields.io/badge/Android_TV-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android TV Coming Soon">
   <img src="https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad%20%7C%20Mac%20%7C%20Android%20%7C%20Win%20%7C%20tvOS%20%7C%20Android%20TV-blue?style=flat-square" alt="Platforms">
   <img src="https://img.shields.io/badge/Privacy-100%25_Local-green?style=flat-square" alt="Privacy">
@@ -119,10 +119,10 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 | **macOS** (Transfer) | ✅ **v1.0 Live** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
 | **Android** | ✅ **v1.0 Live** | [🛒 Google Play](https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse) |
 | **Windows** (Transfer) | ✅ **v1.0 Live** | [⬇️ Download](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
-| **tvOS** (Apple TV) | 🟡 **v1.0 Under Review — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
+| **tvOS** (Apple TV) | ✅ **v1.0 Live** | [🛒 App Store](https://apps.apple.com/app/id6778987369) |
 | **Android TV** | 🔜 Coming Soon | — |
 
-> 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS & Android**; **tvOS** v1.0 is under App Store review, and **Android TV** is coming soon. TV versions use your phone as the data source — they are a big-screen companion for enjoying videos, photos, and music already in your PouchVerse library.
+> 📌 **PouchVerse Transfer** (macOS / Windows) is a companion app focused on LAN file transfer. Full file management is available on **iOS & Android**; **tvOS** v1.0 is now live on App Store, and **Android TV** is coming soon. TV versions use your phone as the data source — they are a big-screen companion for enjoying videos, photos, and music already in your PouchVerse library.
 >
 > ⭐ **Star this repo** to get notified when new platforms launch.
 
