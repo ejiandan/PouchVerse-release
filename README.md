@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-v1.0.2_Live-brightgreen?style=flat-square&logo=apple" alt="iOS v1.0.2 Live">
   <img src="https://img.shields.io/badge/macOS_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=apple" alt="macOS Transfer v1.0 Live">
-  <img src="https://img.shields.io/badge/Android-v1.0_Under_Review-orange?style=flat-square&logo=android" alt="Android v1.0 Under Review">
+  <a href="https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse"><img src="https://img.shields.io/badge/Android-v1.0_Live-brightgreen?style=flat-square&logo=android" alt="Android v1.0 Live"></a>
   <img src="https://img.shields.io/badge/Windows_Transfer-v1.0_Live-brightgreen?style=flat-square&logo=windows" alt="Windows Transfer v1.0 Live">
   <img src="https://img.shields.io/badge/tvOS-v1.0_Under_Review-orange?style=flat-square&logo=apple" alt="tvOS v1.0 Under Review">
   <img src="https://img.shields.io/badge/Android_TV-Coming_Soon-lightgrey?style=flat-square&logo=android" alt="Android TV Coming Soon">
@@ -117,7 +117,7 @@ On modern smartphones, files are scattered across social apps, emails, and brows
 |---|---|---|
 | **iOS** (iPhone & iPad) | ✅ **v1.0.2 Live** | [🛒 App Store](https://apps.apple.com/app/id6766184837) |
 | **macOS** (Transfer) | ✅ **v1.0 Live** | [🛒 App Store](https://apps.apple.com/app/id6773520285) |
-| **Android** | 🟡 **v1.0 Under Review — Google Play** | — |
+| **Android** | ✅ **v1.0 Live** | [🛒 Google Play](https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse) |
 | **Windows** (Transfer) | ✅ **v1.0 Live** | [⬇️ Download](https://github.com/ejiandan/PouchVerse-release/releases/tag/v1.0.0) · [🏪 Microsoft Store](https://apps.microsoft.com/detail/9MWN47WXN7S8) |
 | **tvOS** (Apple TV) | 🟡 **v1.0 Under Review — App Store** | [🧪 v1.0 TestFlight](https://testflight.apple.com/join/nzK9xWhJ) |
 | **Android TV** | 🔜 Coming Soon | — |

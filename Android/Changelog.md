@@ -4,7 +4,7 @@
 
 ## v1.0
 
-**Status:** Submitted to Google Play — Under Review
+**Status:** Live on Google Play — [Download](https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse)
 
 ### Initial Release
 

@@ -4,7 +4,7 @@
 
 ## v1.0
 
-**状态：** 已提交 Google Play 审核
+**状态：** 已上线 Google Play — [下载](https://play.google.com/store/apps/details?id=com.ejiandan.pouchverse)
 
 ### 首发功能
 
