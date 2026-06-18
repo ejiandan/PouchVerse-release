@@ -1,6 +1,6 @@
 # PouchVerse for Apple TV — Política de Privacidad
 
-_Última actualización: 7 de junio de 2026_
+Última actualización: 7 de junio de 2026
 
 PouchVerse for Apple TV ("la Aplicación") es un cliente de exploración de contenido multimedia. Descubre hosts de PouchVerse (dispositivos iPhone / iPad / Android que ejecutan PouchVerse) en su red local y le permite explorar y reproducir las fotos, música y vídeos que esos dispositivos elijan compartir. Esta política explica qué hace y qué no hace la Aplicación con su información.
 

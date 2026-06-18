@@ -1,6 +1,6 @@
 # PouchVerse for Apple TV — 개인정보 처리방침
 
-_최종 업데이트: 2026년 6월 7일_
+최종 업데이트: 2026년 6월 7일
 
 PouchVerse for Apple TV("본 앱")는 미디어 브라우징 클라이언트입니다. 로컬 네트워크에서
 PouchVerse 호스트(PouchVerse를 실행하는 iPhone / iPad / Android 기기)를 검색하고, 해당 기기가 공유하도록 선택한 사진, 음악 및 동영상을 탐색하고 재생할 수 있습니다. 본 방침은 본 앱이 귀하의 정보에 대해 무엇을 하고 하지 않는지를 설명합니다.

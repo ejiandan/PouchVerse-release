@@ -146,11 +146,11 @@
 ## 📱 截图预览
 
 <p align="center">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/01_万文归一.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/02_毫秒检索.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/03_即点即览.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/04_一指掌控.png" width="18%">
-  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/05_柔性管理.png" width="18%">
+  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/01_万文归一.png" alt="万文归一" width="18%">
+  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/02_毫秒检索.png" alt="毫秒检索" width="18%">
+  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/03_即点即览.png" alt="即点即览" width="18%">
+  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/04_一指掌控.png" alt="一指掌控" width="18%">
+  <img src="Assets/Screenshots/iPhone/02_Simplified-Chinese/05_柔性管理.png" alt="柔性管理" width="18%">
 </p>
 
 > 完整截图集（iPhone & iPad，6 种语言）位于 [`/Assets/Screenshots/`](Assets/Screenshots/)。

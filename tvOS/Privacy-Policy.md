@@ -1,6 +1,6 @@
 # PouchVerse for Apple TV — Privacy Policy
 
-_Last updated: 2026-06-07_
+Last updated: 2026-06-07
 
 PouchVerse for Apple TV ("the App") is a media‑browsing client. It discovers
 PouchVerse hosts (iPhone / iPad / Android devices running PouchVerse) on your
