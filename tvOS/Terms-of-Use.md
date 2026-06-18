@@ -1,6 +1,6 @@
 # PouchVerse for Apple TV — Terms of Use
 
-_Last updated: 2026-06-07_
+Last updated: 2026-06-07
 
 Please read these Terms of Use ("Terms") before using PouchVerse for Apple TV
 ("the App"). By installing or using the App, you agree to these Terms.
